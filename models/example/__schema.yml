@@ -1,0 +1,144 @@
+models:
+  - name: staging_mens_rosters
+    description: "Presents the rosters for each men's team over the specified seasons, detailing age, height, position and yearly statistics."
+    columns:
+      - name: unique_id
+        tests:
+          - unique
+          - not_null
+      - name: player_id
+        tests:
+          - not_null
+      - name: player_name
+        tests:
+          - not_null
+      - name: year
+        tests:
+          - not_null
+      - name: position
+        tests:
+          - not_null
+      - name: country_name
+      - name: nationality
+      - name: age
+      - name: height
+      - name: total_points
+      - name: efficiency
+      - name: average_by_match
+      - name: attack_points
+      - name: attack_avg_points
+      - name: block_points
+      - name: block_success
+      - name: block_avg_points
+      - name: serve_points
+      - name: serve_success
+      - name: serve_avg_points
+
+  - name: staging_mens_indv
+    description: "Focuses on the individual performance metrics for each player per season, covering key statistical areas such as blocks, serves, attacks, receptions, digs, and sets."
+    columns:
+      - name: player_id
+        tests:
+          - not_null
+      - name: year
+        tests:
+          - not_null
+      - name: match_date
+      - name: team_a
+      - name: team_b
+      - name: serve_points
+      - name: serve_errors
+      - name: serve_attempts
+      - name: total_serves
+      - name: set_successes
+      - name: set_errors
+      - name: set_attempts
+      - name: total_sets
+      - name: attack_success
+      - name: attack_errors
+      - name: attack_attempts
+      - name: total_attacks
+      - name: block_successful
+      - name: block_errors
+      - name: block_rebounds
+      - name: total_blocks
+      - name: reception_successful
+      - name: reception_errors
+      - name: reception_attempts
+      - name: total_receptions
+      - name: dig_success
+      - name: dig_errors
+      - name: dig_attempts
+      - name: total_digs
+
+  - name: staging_womens_rosters
+    description: "Includes comprehensive roster information for each women's team, providing insights into player demographics, positional data, and annual statistics."
+    columns:
+      - name: unique_id
+        tests:
+          - unique
+          - not_null
+      - name: player_id
+        tests:
+          - not_null
+      - name: player_name
+        tests:
+          - not_null
+      - name: year
+        tests:
+          - not_null
+      - name: position
+        tests:
+          - not_null
+      - name: country_name
+      - name: nationality
+      - name: age
+      - name: height
+      - name: total_points
+      - name: efficiency
+      - name: average_by_match
+      - name: attack_points
+      - name: attack_avg_points
+      - name: block_points
+      - name: block_success
+      - name: block_avg_points
+      - name: serve_points
+      - name: serve_success
+      - name: serve_avg_points
+
+  - name: staging_womens_indv
+    description: "Dedicated to individual women's player statistics, contains performance data across blocks, serves, attacks, receptions, digs, and sets for each season."
+    columns:
+      - name: player_id
+        tests:
+          - not_null
+      - name: year
+        tests:
+          - not_null
+      - name: match_date
+      - name: team_a
+      - name: team_b
+      - name: serve_points
+      - name: serve_errors
+      - name: serve_attempts
+      - name: total_serves
+      - name: set_successes
+      - name: set_errors
+      - name: set_attempts
+      - name: total_sets
+      - name: attack_success
+      - name: attack_errors
+      - name: attack_attempts
+      - name: total_attacks
+      - name: block_successful
+      - name: block_errors
+      - name: block_rebounds
+      - name: total_blocks
+      - name: reception_successful
+      - name: reception_errors
+      - name: reception_attempts
+      - name: total_receptions
+      - name: dig_success
+      - name: dig_errors
+      - name: dig_attempts
+      - name: total_digs

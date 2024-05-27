@@ -1,0 +1,942 @@
+Player_Name,Position,Player_ID,Year,Country_Name,Nationality,Age,Height,Total_Points,Average_by_Match,Attack_Points,Efficiency,Attack_Avg_Points,Block_Points,Block_Success,Block_Avg_Points,Serve_Points,Serve_Success,Serve_Avg_Points
+Sanchez Matias,S,142412,2021,Argentina,Argentina,25,175,4,0.57,2,100%,0.29,0,0.00%,0,2,6.90%,0.29
+Pereyra Federico,O,117445,2021,Argentina,Argentina,33,200,147,9.8,125,49.21%,8.33,12,26.09%,0.8,10,8.93%,0.67
+Martinez Franchi Jan,U,142410,2021,Argentina,Argentina,24,190,53,4.42,51,42.15%,4.25,2,13.33%,0.17,0,0.00%,0
+Uriarte Nicolas,S,119846,2021,Argentina,Argentina,32,192,8,0.8,3,33.33%,0.3,5,31.25%,0.5,0,0.00%,0
+Poglajen Cristian,OH,119853,2021,Argentina,Argentina,32,195,49,4.45,45,40.54%,4.09,3,9.38%,0.27,1,1.27%,0.09
+Conte Facundo,OH,118886,2021,Argentina,Argentina,32,197,112,7.47,92,39.15%,6.13,18,32.14%,1.2,2,1.42%,0.13
+Loser Agustin,MB,152692,2021,Argentina,Argentina,24,198,111,9.25,86,68.25%,7.17,16,16.84%,1.33,9,5.88%,0.75
+Danani Santiago,L,153053,2021,Argentina,Argentina,26,176,0,0,0,-,-,0,-,-,0,-,-
+Lazo Nicolás,OH,136737,2021,Argentina,Argentina,26,192,12,2.4,9,32.14%,1.8,3,60.00%,0.6,0,0.00%,0
+Solé Sebastian,MB,133730,2021,Argentina,Italy,30,200,75,6.82,59,56.73%,5.36,15,16.30%,1.36,1,0.80%,0.09
+Lima Bruno,O,142415,2021,Argentina,Argentina,26,198,81,11.57,76,54.29%,10.86,2,5.71%,0.29,3,4.41%,0.43
+Palacios Ezequiel,OH,125048,2021,Argentina,Argentina,29,198,21,1.91,16,40.00%,1.45,2,25.00%,0.18,3,10.00%,0.27
+Crer Pablo,MB,119851,2021,Argentina,Argentina,32,202,8,2.67,6,66.67%,2,2,33.33%,0.67,0,0.00%,0
+De Cecco Luciano,S,117457,2021,Argentina,Argentina,33,191,18,1.2,8,34.78%,0.53,6,17.65%,0.4,4,2.74%,0.27
+Palonsky Luciano,OH,162546,2021,Argentina,Argentina,22,198,15,1.25,14,36.84%,1.17,1,33.33%,0.08,0,0.00%,0
+Mendez Nicolas,OH,125049,2021,Argentina,Argentina,29,191,45,3,38,41.30%,2.53,7,36.84%,0.47,0,0.00%,0
+Ramos Martin,MB,125047,2021,Argentina,Argentina,30,197,72,4.8,50,60.24%,3.33,18,23.38%,1.2,4,3.64%,0.27
+Massimino Franco,L,135349,2021,Argentina,Argentina,33,177,0,0,0,-,-,0,-,-,0,-,-
+Marcelo MENDEZ,COACH,N/A,2021,Argentina,,,,,,,,,,,,,,
+Graham Beau,MB,144457,2021,Australia,Australia,27,203,101,6.73,96,38.40%,6.4,2,4.35%,0.13,3,2.11%,0.2
+Dosanjh Arshdeep,S,144456,2021,Australia,Australia,25,205,46,3.07,25,38.46%,1.67,13,23.21%,0.87,8,5.06%,0.53
+Macdonald Steven,MB,162262,2021,Australia,Australia,24,207,0,0,0,-,-,0,0.00%,0,0,0.00%,0
+Weir James,MB,162077,2021,Australia,Australia,26,204,26,1.73,18,40.91%,1.2,4,17.39%,0.27,4,6.35%,0.27
+O'Dea Trent,MB,144464,2021,Australia,Australia,27,201,75,5,59,47.58%,3.93,14,16.67%,0.93,2,1.54%,0.13
+Perry Luke,L,144578,2021,Australia,Australia,26,180,0,0,0,-,-,0,-,-,0,-,-
+Mote Nehemiah,MB,144461,2021,Australia,Australia,28,203,94,6.71,74,52.11%,5.29,18,18.37%,1.29,2,1.42%,0.14
+Smith Luke,OH,120515,2021,Australia,Australia,31,204,132,11,115,43.40%,9.58,13,25.00%,1.08,4,2.90%,0.33
+Douglas-Powell Thomas Ewen,OH,132961,2021,Australia,Australia,29,194,1,1,1,100%,1,0,-,-,0,0.00%,0
+Butler Nicholas,S,158841,2021,Australia,Australia,24,198,2,0.13,1,100%,0.07,1,50.00%,0.07,0,0.00%,0
+Senica Max,OH,162870,2021,Australia,Australia,22,191,39,2.6,30,34.09%,2,5,27.78%,0.33,4,5.80%,0.27
+Taylor Tim,OH,162267,2021,Australia,Australia,27,195,25,1.67,22,36.67%,1.47,3,33.33%,0.2,0,0.00%,0
+Garrett Ethan,OH,169335,2021,Australia,Australia,21,196,36,3,33,25.19%,2.75,2,5.88%,0.17,1,1.47%,0.08
+Aubrey Matthew,O,162265,2021,Australia,Australia,24,209,6,0.4,6,37.50%,0.4,0,0.00%,0,0,0.00%,0
+Azeez Oluwatobi Elliot,OH,181257,2021,Australia,Australia,22,190,56,4.67,51,38.06%,4.25,3,17.65%,0.25,2,4.17%,0.17
+Flowerday Sam,OH,178207,2021,Australia,Australia,19,191,0,0,0,0.00%,0,0,-,-,0,0.00%,0
+Greber Billy,L,181247,2021,Australia,Australia,19,183,0,-,0,-,-,0,-,-,0,-,-
+Marcos Miranda,COACH,N/A,2021,Australia,,,,,,,,,,,,,,
+Rezende Bruno Mossa,S,116099,2021,Brazil,Brazil,35,190,21,1.24,9,64.29%,0.53,7,11.67%,0.41,5,3.38%,0.29
+De Barros Ferreira João Rafael,OH,136955,2021,Brazil,Brazil,29,193,4,1,3,50.00%,0.75,0,-,-,1,11.11%,0.25
+Borges Almeida Silva Mauricio,OH,132030,2021,Brazil,Brazil,33,2,39,2.29,33,41.25%,1.94,3,17.65%,0.18,3,5.45%,0.18
+Gil Kreling Fernando,S,142744,2021,Brazil,Brazil,26,186,8,0.47,3,50.00%,0.18,2,11.76%,0.12,3,5.00%,0.18
+De Souza Wallace,O,112869,2021,Brazil,Brazil,34,198,169,9.94,150,58.14%,8.82,10,16.95%,0.59,9,5.52%,0.53
+Leal Hidalgo Yoandy,OH,118928,2021,Brazil,Brazil,33,202,162,10.8,139,51.10%,9.27,11,22.00%,0.73,12,8.11%,0.8
+Kavalkievicz Gabriel,OH,151789,2021,Brazil,Brazil,25,191,7,0.7,6,60.00%,0.6,1,25.00%,0.1,0,0.00%,0
+Santos Isac,MB,119872,2021,Brazil,Brazil,31,208,97,6.06,66,57.39%,4.12,21,25.30%,1.31,10,6.67%,0.62
+De Souza Mauricio Luiz,MB,136734,2021,Brazil,Brazil,33,207,58,4.46,36,56.25%,2.77,19,21.11%,1.46,3,2.70%,0.23
+Correia De Souza Douglas,OH,142741,2021,Brazil,Brazil,26,199,119,7,101,52.06%,5.94,8,20.00%,0.47,10,8.70%,0.59
+Nascimento Maique Reis,L,161939,2021,Brazil,Brazil,24,187,0,0,0,-,-,0,-,-,0,-,-
+Saatkamp Lucas,MB,116081,2021,Brazil,Brazil,36,209,24,4.8,19,46.34%,3.8,3,10.00%,0.6,2,3.85%,0.4
+Hoss Thales,L,118916,2021,Brazil,Brazil,32,190,0,0,0,-,-,0,-,-,0,-,-
+Souza Ricardo Lucarelli,OH,136468,2021,Brazil,Brazil,30,196,160,10.67,131,52.82%,8.73,12,21.05%,0.8,17,9.55%,1.13
+Souza Alan,O,136947,2021,Brazil,Brazil,28,202,96,6,85,55.92%,5.31,8,21.05%,0.5,3,3.90%,0.19
+Resende Gualberto Flavio,MB,136956,2021,Brazil,Brazil,28,199,59,3.47,45,49.45%,2.65,10,12.35%,0.59,4,2.99%,0.24
+CARLOS SCHWANKE,COACH,N/A,2021,Brazil,,,,,,,,,,,,,,
+Karyagin Denis,OH,174445,2021,Bulgaria,Bulgaria,19,206,63,4.2,57,40.14%,3.8,2,10.00%,0.13,4,5.56%,0.27
+Chavdarov Stefan,MB,180588,2021,Bulgaria,Bulgaria,26,202,39,3,28,57.14%,2.15,9,15.00%,0.69,2,2.27%,0.15
+Kolev Nikolay,MB,173067,2021,Bulgaria,Bulgaria,24,204,59,3.93,47,58.02%,3.13,10,12.05%,0.67,2,2.00%,0.13
+Atanasov Martin,OH,156676,2021,Bulgaria,Bulgaria,25,197,64,4.27,45,35.16%,3,6,28.57%,0.4,13,15.85%,0.87
+Stankov Vladimir,S,162124,2021,Bulgaria,Bulgaria,25,190,8,0.8,3,50.00%,0.3,3,12.50%,0.3,2,4.00%,0.2
+Seganov Georgi,S,137012,2021,Bulgaria,Bulgaria,28,197,29,1.93,11,61.11%,0.73,10,23.26%,0.67,8,5.88%,0.53
+Stankov Svetoslav,S,181285,2021,Bulgaria,Bulgaria,25,195,1,0.11,0,-,-,0,0.00%,0,1,20.00%,0.11
+Grozdanov Aleks,MB,152619,2021,Bulgaria,Bulgaria,23,208,23,7.67,11,47.83%,3.67,7,20.59%,2.33,5,13.89%,1.67
+Petrov Georgi,OH,173010,2021,Bulgaria,Bulgaria,22,197,42,2.8,37,38.95%,2.47,5,17.24%,0.33,0,0.00%,0
+Asparuhov Asparuh,OH,168269,2021,Bulgaria,Bulgaria,21,201,125,8.33,106,47.53%,7.07,8,14.81%,0.53,11,8.53%,0.73
+Lyutskanov Gordan,OH,152624,2021,Bulgaria,Bulgaria,24,197,12,1.33,11,32.35%,1.22,1,14.29%,0.11,0,0.00%,0
+Ivanov Vladislav,L,118484,2021,Bulgaria,Bulgaria,35,188,0,0,0,-,-,0,-,-,0,-,-
+Sokolov Tsvetan,O,118488,2021,Bulgaria,Bulgaria,32,206,80,10,68,48.57%,8.5,5,25.00%,0.62,7,12.50%,0.88
+Kartev Nikolay,MB,162123,2021,Bulgaria,Bulgaria,26,204,48,3.69,37,55.22%,2.85,10,16.67%,0.77,1,1.05%,0.08
+Ivanov Martin,L,173009,2021,Bulgaria,Bulgaria,30,190,0,0,0,-,-,0,-,-,0,-,-
+Parapunov Radoslav,O,150277,2021,Bulgaria,Bulgaria,24,205,97,6.47,82,41.41%,5.47,12,25.53%,0.8,3,3.57%,0.2
+Ivanov Svetoslav,OH,164812,2021,Bulgaria,Bulgaria,21,197,38,3.45,31,40.79%,2.82,4,28.57%,0.36,3,5.66%,0.27
+Silvano Prandi,COACH,N/A,2021,Bulgaria,,,,,,,,,,,,,,
+Sanders Tyler,S,136299,2021,Canada,Canada,30,191,5,0.62,1,20.00%,0.12,3,13.04%,0.38,1,1.54%,0.12
+Perrin John Gordon,OH,124556,2021,Canada,Canada,32,201,128,9.85,109,46.38%,8.38,12,21.05%,0.92,7,4.67%,0.54
+Marshall Steven,L,139429,2021,Canada,Canada,32,191,9,0.69,3,13.64%,0.23,6,50.00%,0.46,0,0.00%,0
+Hoag Nicholas,OH,136291,2021,Canada,Canada,29,200,121,8.07,95,42.99%,6.33,9,21.43%,0.6,17,11.56%,1.13
+Pereira Jordan,L,157334,2021,Canada,Canada,24,185,0,0,0,-,-,0,-,-,0,-,-
+Maar Stephen Timothy,OH,140061,2021,Canada,Canada,27,201,49,4.9,40,41.24%,4,7,35.00%,0.7,2,5.26%,0.2
+Blankenau Jay,S,124553,2021,Canada,Canada,32,194,16,1.14,11,42.31%,0.79,3,12.50%,0.21,2,1.98%,0.14
+Sclater Ryan Joseph,O,140428,2021,Canada,Canada,28,200,97,6.47,85,46.96%,5.67,6,9.68%,0.4,6,6.19%,0.4
+Jansen Vandoorn Daniel,MB,139499,2021,Canada,Canada,32,207,42,2.8,32,55.17%,2.13,10,20.00%,0.67,0,0.00%,0
+Van Berkel Lucas,MB,136296,2021,Canada,Canada,30,210,59,4.21,38,60.32%,2.71,20,24.39%,1.43,1,0.99%,0.07
+Vernon-Evans Sharone,O,157321,2021,Canada,Canada,23,206,129,8.6,103,48.13%,6.87,16,29.09%,1.07,10,8.77%,0.67
+Loeppky Eric,OH,157327,2021,Canada,Canada,23,197,62,4.43,58,45.31%,4.14,2,7.41%,0.14,2,3.08%,0.14
+Vigrass Graham,MB,124551,2021,Canada,Canada,32,205,37,4.62,26,63.41%,3.25,8,18.60%,1,3,4.62%,0.38
+Bann Blair Cameron,L,139490,2021,Canada,Canada,34,184,0,0,0,-,-,0,-,-,0,-,-
+Szwarc Arthur,O,151871,2021,Canada,Canada,26,209,77,5.13,47,56.63%,3.13,20,23.26%,1.33,10,8.62%,0.67
+Walsh Brett James,S,143745,2021,Canada,Canada,28,196,4,0.4,1,16.67%,0.1,3,25.00%,0.3,0,0.00%,0
+Demyanenko Danny,MB,140042,2021,Canada,Canada,27,196,1,0.12,1,33.33%,0.12,0,0.00%,0,0,0.00%,0
+Glenn Hoag,COACH,N/A,2021,Canada,,,,,,,,,,,,,,
+Chinenyeze Barthélémy,MB,152494,2021,France,France,24,204,111,6.53,84,55.26%,4.94,23,17.04%,1.35,4,2.01%,0.24
+Grebennikov Jenia,L,119792,2021,France,France,31,188,0,0,0,-,-,0,-,-,0,-,-
+Patry Jean,O,142694,2021,France,France,25,207,146,10.43,127,46.52%,9.07,8,14.04%,0.57,11,7.53%,0.79
+Toniutti Benjamin,S,119804,2021,France,France,32,183,5,0.33,1,33.33%,0.07,3,9.68%,0.2,1,0.91%,0.07
+Tillie Kevin,OH,124518,2021,France,France,31,200,110,6.88,96,52.46%,6,9,25.00%,0.56,5,4.00%,0.31
+Lyneel Julien,OH,119798,2021,France,France,31,192,9,1.29,6,31.58%,0.86,1,50.00%,0.14,2,6.25%,0.29
+Ngapeth Earvin,OH,119800,2021,France,France,31,194,134,11.17,111,49.33%,9.25,5,12.82%,0.42,18,11.25%,1.5
+Brizard Antoine,S,136851,2021,France,France,27,196,49,3.06,26,65.00%,1.62,17,29.82%,1.06,6,4.03%,0.38
+Boyer Stephen,O,142710,2021,France,France,25,196,127,8.47,113,50.22%,7.53,10,22.73%,0.67,4,4.40%,0.27
+Le Goff Nicolas,MB,125073,2021,France,France,30,206,82,4.82,51,54.26%,3,28,25.93%,1.65,3,2.26%,0.18
+Bultor Daryl,MB,142677,2021,France,France,26,197,71,4.18,52,56.52%,3.06,11,17.46%,0.65,8,7.69%,0.47
+Clevenot Trevor,OH,132948,2021,France,France,27,199,114,8.14,92,48.42%,6.57,15,30.61%,1.07,7,5.47%,0.5
+Rossard Thibault,OH,136867,2021,France,France,28,194,55,5.5,47,48.96%,4.7,0,0.00%,0,8,8.79%,0.8
+Louati Yacine,OH,120735,2021,France,France,30,198,51,3.92,43,37.39%,3.31,4,18.18%,0.31,4,5.63%,0.31
+Diez Benjamin,L,152506,2021,France,France,23,183,0,0,0,-,-,0,-,-,0,-,-
+Faure Théo,O,163309,2021,France,France,22,202,37,7.4,29,49.15%,5.8,4,17.39%,0.8,4,10.53%,0.8
+Meyer Léo,S,152514,2021,France,France,25,194,2,0.67,1,100%,0.33,1,33.33%,0.33,0,0.00%,0
+Gueye Mousse,MB,181197,2021,France,France,25,198,11,0.69,8,57.14%,0.5,2,20.00%,0.12,1,8.33%,0.06
+Laurent TILLIE,COACH,N/A,2021,France,,,,,,,,,,,,,,
+Fromm Christian,OH,119779,2021,Germany,Germany,31,204,71,4.73,66,44.00%,4.4,2,8.70%,0.13,3,4.55%,0.2
+Schott Ruben,OH,136441,2021,Germany,Germany,27,193,106,7.07,85,40.67%,5.67,3,5.77%,0.2,18,10.11%,1.2
+Reichert Moritz,OH,139386,2021,Germany,Germany,27,194,89,5.93,78,39.39%,5.2,7,21.88%,0.47,4,3.05%,0.27
+Kaliberda Denys,OH,119775,2021,Germany,Germany,31,193,54,4.15,47,45.63%,3.62,5,26.32%,0.38,2,2.50%,0.15
+Sossenheimer David,L,156599,2021,Germany,Germany,25,193,23,1.92,17,41.46%,1.42,1,8.33%,0.08,5,8.20%,0.42
+Böhme Marcus,MB,116015,2021,Germany,Germany,36,212,29,2.23,25,59.52%,1.92,4,10.00%,0.31,0,0.00%,0
+Zenger Julian,L,152470,2021,Germany,Germany,24,190,0,0,0,-,-,0,-,-,0,-,-
+Kampa Lukas,S,116575,2021,Germany,Germany,35,196,-,-,-,-,-,-,-,-,-,-,-
+Hirsch Simon,O,136253,2021,Germany,Germany,29,205,74,5.29,63,40.38%,4.5,8,21.62%,0.57,3,3.75%,0.21
+Baxpöhler Noah,MB,156596,2021,Germany,Germany,28,210,15,1.5,11,68.75%,1.1,4,17.39%,0.4,0,0.00%,0
+Burggräf Eric,S,162788,2021,Germany,Germany,23,184,2,0.13,0,-,-,0,-,-,2,11.76%,0.13
+Zimmermann Jan,S,136442,2021,Germany,Germany,29,190,23,1.53,8,42.11%,0.53,8,12.70%,0.53,7,3.87%,0.47
+Krage Florian,MB,162790,2021,Germany,Germany,25,203,74,5.69,50,55.56%,3.85,20,22.99%,1.54,4,3.12%,0.31
+Röhrs Erik,OH,174660,2021,Germany,Germany,20,194,7,0.54,5,41.67%,0.38,0,0.00%,0,2,25.00%,0.15
+Weber Linus,O,162082,2021,Germany,Germany,22,203,154,11.85,128,45.07%,9.85,14,25.00%,1.08,12,8.51%,0.92
+Krick Tobias,MB,152349,2021,Germany,Germany,23,210,115,8.21,83,63.85%,5.93,28,22.58%,2,4,3.39%,0.29
+Maase Lukas,MB,152352,2021,Germany,Germany,23,208,0,0,0,0.00%,0,0,0.00%,0,0,-,-
+Andrea Giani,COACH,N/A,2021,Germany,,,,,,,,,,,,,,
+Ebadipour Ghara H. Milad,OH,136751,2021,Iran,Iran,28,196,99,7.62,82,40.20%,6.31,11,28.21%,0.85,6,4.26%,0.46
+Abedini Reza,MB,150817,2021,Iran,Iran,30,203,18,1.64,8,66.67%,0.73,9,37.50%,0.82,1,2.50%,0.09
+Marouflakrani Mir Saeid,S,117478,2021,Iran,Iran,36,189,10,0.77,8,40.00%,0.62,0,0.00%,0,2,1.82%,0.15
+Mousavi Eraghi Seyed Mohammad,MB,118827,2021,Iran,Iran,34,203,103,7.36,66,54.55%,4.71,30,27.78%,2.14,7,5.65%,0.5
+Fayazi D. Purya,OH,162173,2021,Iran,Iran,29,195,2,0.18,2,12.50%,0.18,0,0.00%,0,0,0.00%,0
+Hazratpourtalatappeh Mohammadreza,L,163176,2021,Iran,Iran,22,187,0,0,0,-,-,0,-,-,0,-,-
+Gholami Masoud,MB,142078,2021,Iran,Iran,31,204,63,4.2,41,53.95%,2.73,17,23.61%,1.13,5,3.82%,0.33
+Ghafour Amir,O,124584,2021,Iran,Iran,30,202,36,7.2,33,56.90%,6.6,3,27.27%,0.6,0,0.00%,0
+Kazemi Saber,O,164188,2021,Iran,Iran,23,205,177,12.64,152,44.71%,10.86,10,20.00%,0.71,15,9.43%,1.07
+Sharifi Morteza,OH,152742,2021,Iran,Iran,22,193,26,2.36,21,42.00%,1.91,2,15.38%,0.18,3,10.34%,0.27
+Mojarad Aliasghar,MB,152743,2021,Iran,Iran,24,205,42,3.82,25,56.82%,2.27,16,34.04%,1.45,1,1.56%,0.09
+Salehi Meisam,OH,162557,2021,Iran,Iran,23,198,160,10.67,138,55.20%,9.2,14,25.93%,0.93,8,4.65%,0.53
+Vadi Mohammad Taher,S,119750,2021,Iran,Iran,32,194,8,0.89,3,37.50%,0.33,3,27.27%,0.33,2,3.64%,0.22
+Salehi Arman,L,181182,2021,Iran,Iran,29,180,0,0,0,-,-,0,-,-,0,-,-
+Esfandiar Amirhossein,OH,152752,2021,Iran,Iran,23,209,77,5.5,60,47.62%,4.29,5,14.29%,0.36,12,10.81%,0.86
+Saadat Bardia,O,168551,2021,Iran,Iran,19,205,75,5.36,68,50.37%,4.86,2,7.69%,0.14,5,9.09%,0.36
+Karimisouchelmaei Javad,S,152755,2021,Iran,Iran,24,204,8,1.33,1,20.00%,0.17,4,57.14%,0.67,3,12.00%,0.5
+VLADIMIR ALEKNO,COACH,N/A,2021,Iran,,,,,,,,,,,,,,
+Gardini Davide,OH,152422,2021,Italy,Italy,23,205,5,0.42,5,35.71%,0.42,0,0.00%,0,0,0.00%,0
+Balaso Fabio,L,150436,2021,Italy,Italy,26,178,0,0,0,-,-,0,-,-,0,-,-
+Sbertoli Riccardo,S,152370,2021,Italy,Italy,23,188,18,1.2,7,38.89%,0.47,6,10.17%,0.4,5,3.85%,0.33
+Michieletto Alessandro,OH,171191,2021,Italy,Italy,20,205,181,12.07,152,50.00%,10.13,19,36.54%,1.27,10,5.75%,0.67
+Nelli Gabriele,O,137823,2021,Italy,Italy,28,210,125,9.62,108,44.63%,8.31,5,9.09%,0.38,12,9.52%,0.92
+Spirito Luca,S,143692,2021,Italy,Italy,28,196,17,1.13,5,29.41%,0.33,10,32.26%,0.67,2,2.99%,0.13
+Pinali Giulio,O,162518,2021,Italy,Italy,24,199,106,7.07,92,51.11%,6.13,5,9.09%,0.33,9,9.00%,0.6
+Cavuto Oreste,OH,152492,2021,Italy,Italy,25,196,49,3.27,45,45.92%,3,2,11.76%,0.13,2,4.17%,0.13
+Vitelli Marco,MB,150435,2021,Italy,Italy,25,203,26,2.36,15,44.12%,1.36,8,22.22%,0.73,3,3.75%,0.27
+Cortesia Lorenzo,MB,163028,2021,Italy,Italy,22,198,86,6.14,49,56.32%,3.5,28,24.78%,2,9,5.06%,0.64
+Scanferla Leonardo,L,181128,2021,Italy,Italy,23,184,0,-,0,-,-,0,-,-,0,-,-
+Recine Francesco,OH,163033,2021,Italy,Italy,23,186,133,8.87,117,41.49%,7.8,13,27.66%,0.87,3,2.48%,0.2
+Bottolo Mattia,OH,163447,2021,Italy,Italy,22,196,89,5.93,68,35.79%,4.53,10,27.03%,0.67,11,10.00%,0.73
+Mosca Leandro Ausibio,MB,174074,2021,Italy,Italy,21,208,69,4.93,47,55.95%,3.36,21,23.08%,1.5,1,0.88%,0.07
+Federici Filippo,L,163025,2021,Italy,Italy,21,172,0,0,0,-,-,0,-,-,0,-,-
+Antonio Valentini,COACH,N/A,2021,Italy,,,,,,,,,,,,,,
+Shimizu Kunihiro,O,118511,2021,Japan,Japan,35,193,111,8.54,103,47.25%,7.92,5,13.89%,0.38,3,2.97%,0.23
+Onodera Taishi,MB,142565,2021,Japan,Japan,26,200,66,5.08,49,49.49%,3.77,13,21.67%,1,4,3.33%,0.31
+Fujii Naonobu,S,162104,2021,Japan,Japan,30,183,5,0.56,2,50.00%,0.22,2,14.29%,0.22,1,1.25%,0.11
+Otake Issei,O,142575,2021,Japan,Japan,26,202,54,9,49,50.00%,8.17,3,15.00%,0.5,2,6.25%,0.33
+Fukuzawa Tatsuya,OH,114415,2021,Japan,Japan,35,189,33,2.36,33,40.24%,2.36,0,0.00%,0,0,0.00%,0
+Yamauchi Akihiro,MB,146409,2021,Japan,Japan,28,204,60,4,45,51.72%,3,12,21.82%,0.8,3,2.52%,0.2
+Nishida Yuji,O,163519,2021,Japan,Japan,22,187,41,8.2,36,51.43%,7.2,5,35.71%,1,0,0.00%,0
+Sekita Masahiro,S,133009,2021,Japan,Japan,28,175,7,0.5,1,14.29%,0.07,2,8.00%,0.14,4,4.00%,0.29
+Oya Masaki,S,142570,2021,Japan,Japan,26,178,0,0,0,0.00%,0,0,0.00%,0,0,0.00%,0
+Ishikawa Yuki,OH,142568,2021,Japan,Japan,26,191,169,12.07,149,55.19%,10.64,11,17.74%,0.79,9,5.88%,0.64
+Ri Haku,MB,146410,2021,Japan,Japan,31,193,42,2.8,30,55.56%,2,8,12.12%,0.53,4,3.96%,0.27
+Takahashi Kentaro,MB,142561,2021,Japan,Japan,27,202,31,3.1,25,58.14%,2.5,6,28.57%,0.6,0,0.00%,0
+Takanashi Kenta,OH,153365,2021,Japan,Japan,25,190,76,5.43,73,50.00%,5.21,2,12.50%,0.14,1,1.20%,0.07
+Otsuka Tatsunori,OH,163516,2021,Japan,Japan,21,194,74,4.93,66,35.48%,4.4,6,20.69%,0.4,2,2.44%,0.13
+Yamamoto Tomohiro,L,172893,2021,Japan,Japan,27,171,0,0,0,-,-,0,-,-,0,-,-
+Takahashi Ran,OH,178762,2021,Japan,Japan,20,188,118,7.87,106,49.77%,7.07,5,18.52%,0.33,7,4.96%,0.47
+Ogawa Tomohiro,L,180990,2021,Japan,Japan,25,176,0,0,0,-,-,0,-,-,0,-,-
+Yuichi NAKAGAICHI,COACH,N/A,2021,Japan,,,,,,,,,,,,,,
+Keemink Wessel,S,141546,2021,Netherlands,Netherlands,28,197,10,1,3,30.00%,0.3,5,19.23%,0.5,2,2.47%,0.2
+Ter Horst Thijs,OH,137345,2021,Netherlands,Netherlands,30,204,107,9.73,99,52.38%,9,5,16.13%,0.45,3,4.11%,0.27
+van Der Ent Cornelis Luuc,MB,169921,2021,Netherlands,Netherlands,23,208,25,2.27,18,56.25%,1.64,6,11.11%,0.55,1,1.96%,0.09
+Dronkers Just,L,156591,2021,Netherlands,Netherlands,28,187,0,0,0,-,-,0,-,-,0,-,-
+Jorna Gijs,OH,131980,2021,Netherlands,Netherlands,32,196,3,0.5,3,14.29%,0.5,0,0.00%,0,0,0.00%,0
+Plak Fabian,MB,156678,2021,Netherlands,Netherlands,24,198,57,4.38,46,58.23%,3.54,9,18.00%,0.69,2,2.30%,0.15
+van Zeist Maikel,MB,176493,2021,Netherlands,Netherlands,27,200,17,1.42,12,46.15%,1,4,18.18%,0.33,1,2.33%,0.08
+Tuinstra Bennie Junior,OH,170436,2021,Netherlands,Netherlands,21,200,135,9.64,118,39.86%,8.43,6,13.04%,0.43,11,6.11%,0.79
+Ottevanger Steven,L,176460,2021,Netherlands,Netherlands,27,183,0,0,0,-,-,0,-,-,0,-,-
+Abdel-Aziz Nimir,O,137498,2021,Netherlands,Netherlands,30,201,264,22,218,53.43%,18.17,10,15.62%,0.83,36,19.46%,3
+van Solkema Gijs,S,164837,2021,Netherlands,Netherlands,23,193,2,0.17,1,50.00%,0.08,1,16.67%,0.08,0,0.00%,0
+Parkinson Michael,MB,137337,2021,Netherlands,Netherlands,30,203,67,5.15,49,70.00%,3.77,16,21.33%,1.23,2,2.53%,0.15
+Andringa Robbert,L,121992,2021,Netherlands,Netherlands,31,192,77,5.5,58,38.41%,4.14,10,22.73%,0.71,9,7.76%,0.64
+de Weijer Freek,S,162642,2021,Netherlands,Netherlands,26,191,7,0.64,2,28.57%,0.18,4,13.79%,0.36,1,1.23%,0.09
+van Schie Stijn,OH,162095,2021,Netherlands,Netherlands,27,203,11,0.92,9,26.47%,0.75,2,28.57%,0.17,0,0.00%,0
+Wiltenburg Twan,MB,150703,2021,Netherlands,Netherlands,25,205,29,2.07,16,47.06%,1.14,6,12.50%,0.43,7,5.98%,0.5
+van Tilburg Stijn,O,169923,2021,Netherlands,Netherlands,25,203,60,4,51,40.80%,3.4,2,7.41%,0.13,7,9.86%,0.47
+Roberto Piazza,COACH,N/A,2021,Netherlands,,,,,,,,,,,,,,
+Nowakowski Piotr,MB,120245,2021,Poland,Poland,34,205,56,4.67,32,66.67%,2.67,21,25.00%,1.75,3,3.85%,0.25
+Muzaj Maciej,O,156531,2021,Poland,Poland,27,208,53,4.82,37,40.66%,3.36,7,15.56%,0.64,9,14.29%,0.82
+Komenda Marcin,S,153389,2021,Poland,Poland,25,198,1,0.33,1,100%,0.33,0,-,-,0,0.00%,0
+Kaczmarek Lukasz,O,162105,2021,Poland,Poland,27,204,63,5.25,48,45.28%,4,13,37.14%,1.08,2,3.45%,0.17
+Kurek Bartosz,O,115806,2021,Poland,Poland,33,205,112,10.18,97,50.79%,8.82,13,22.81%,1.18,2,2.25%,0.18
+Leon Venero Wilfredo,OH,119646,2021,Poland,Poland,28,202,127,9.77,86,48.59%,6.62,9,30.00%,0.69,32,23.36%,2.46
+Wojtaszek Damian,L,135322,2021,Poland,Poland,33,180,0,0,0,-,-,0,-,-,0,-,-
+Drzyzga Fabian,S,118612,2021,Poland,Poland,32,196,22,1.29,2,28.57%,0.12,8,21.05%,0.47,12,7.95%,0.71
+Lomacz Grzegorz,S,115794,2021,Poland,Poland,34,187,6,0.35,2,100%,0.12,3,13.64%,0.18,1,1.45%,0.06
+Kubiak Michal,OH,115845,2021,Poland,Poland,34,191,88,7.33,78,43.58%,6.5,7,17.50%,0.58,3,2.40%,0.25
+Sliwka Aleksander,OH,142679,2021,Poland,Poland,26,196,45,3,41,47.13%,2.73,2,14.29%,0.13,2,2.60%,0.13
+Kochanowski Jakub,MB,152870,2021,Poland,Poland,24,199,61,5.08,45,61.64%,3.75,12,20.00%,1,4,4.30%,0.33
+Semeniuk Kamil,OH,153395,2021,Poland,Poland,25,195,73,5.62,61,50.00%,4.69,11,34.38%,0.85,1,1.56%,0.08
+Zatorski Pawel,L,118614,2021,Poland,Poland,31,184,0,0,0,-,-,0,-,-,0,-,-
+Bieniek Mateusz,MB,150734,2021,Poland,Poland,27,210,106,8.15,67,56.78%,5.15,22,22.45%,1.69,17,11.11%,1.31
+Fornal Tomasz,OH,152866,2021,Poland,Poland,24,198,45,3.75,35,58.33%,2.92,2,16.67%,0.17,8,16.67%,0.67
+Bednorz Bartosz,OH,150742,2021,Poland,Poland,27,201,36,4,21,34.43%,2.33,7,46.67%,0.78,8,20.00%,0.89
+Klos Karol,MB,118618,2021,Poland,Poland,32,201,40,3.64,26,66.67%,2.36,13,21.67%,1.18,1,1.47%,0.09
+Huber Norbert,MB,152869,2021,Poland,Poland,23,204,23,1.92,14,63.64%,1.17,5,21.74%,0.42,4,16.00%,0.33
+Vital HEYNEN,COACH,N/A,2021,Poland,,,,,,,,,,,,,,
+Podlesnykh Yaroslav,OH,168238,2021,Russia,Russia,27,198,67,4.79,54,44.63%,3.86,6,19.35%,0.43,7,6.80%,0.5
+Vlasov Ilia,MB,142651,2021,Russia,Russia,26,212,79,5.27,50,59.52%,3.33,27,24.55%,1.8,2,2.90%,0.13
+Volvich Artem,MB,119817,2021,Russia,Russia,32,208,100,6.67,67,67.68%,4.47,28,25.00%,1.87,5,3.18%,0.33
+Baranov Evgeny,L,148521,2021,Russia,Russia,26,180,0,0,0,-,-,0,-,-,0,-,-
+Volkov Dmitry,OH,142648,2021,Russia,Russia,26,201,114,8.14,93,50.27%,6.64,10,26.32%,0.71,11,8.66%,0.79
+Iakovlev Ivan,MB,142657,2021,Russia,Russia,26,207,0,-,0,-,-,0,-,-,0,-,-
+Bogdan Denis,OH,153362,2021,Russia,Russia,25,200,49,3.27,36,43.37%,2.4,7,21.21%,0.47,6,6.74%,0.4
+Pankov Pavel,S,136632,2021,Russia,Russia,26,198,20,1.33,5,83.33%,0.33,9,20.00%,0.6,6,7.41%,0.4
+Muserskiy Dmitriy,O,122265,2021,Russia,Russia,33,218,40,5.71,32,54.24%,4.57,5,20.00%,0.71,3,8.33%,0.43
+Poletaev Victor,O,142635,2021,Russia,Russia,26,197,61,4.07,56,52.34%,3.73,2,8.00%,0.13,3,3.33%,0.2
+Mikhaylov Maxim,O,117184,2021,Russia,Russia,34,202,201,14.36,167,51.70%,11.93,17,25.76%,1.21,17,9.14%,1.21
+Kliuka Egor,OH,152885,2021,Russia,Russia,26,209,154,11,132,45.83%,9.43,12,19.05%,0.86,10,5.81%,0.71
+Kurkaev Ilyas,MB,143711,2021,Russia,Russia,28,207,84,5.6,59,67.05%,3.93,21,25.00%,1.4,4,4.94%,0.27
+Kobzar Igor,S,124794,2021,Russia,Russia,30,198,30,2,10,45.45%,0.67,7,11.11%,0.47,13,8.07%,0.87
+Golubev Valentin,L,132391,2021,Russia,Russia,29,190,0,0,0,-,-,0,-,-,0,-,-
+Tuomas Sammelvuo,COACH,N/A,2021,Russia,,,,,,,,,,,,,,
+Kovacevic Uros,OH,124926,2021,Serbia,Serbia,28,197,149,14.9,126,49.22%,12.6,16,25.81%,1.6,7,4.96%,0.7
+Kapur Milorad,L,136360,2021,Serbia,Serbia,31,181,0,0,0,-,-,0,-,-,0,-,-
+Pekovic Nikola,L,150383,2021,Serbia,Serbia,32,176,0,0,0,-,-,0,-,-,0,-,-
+Krsmanovic Petar,MB,146579,2021,Serbia,Serbia,31,205,148,9.87,106,66.67%,7.07,32,21.77%,2.13,10,4.18%,0.67
+Ivovic Marko,OH,132022,2021,Serbia,Serbia,31,194,190,12.67,158,51.97%,10.53,12,17.39%,0.8,20,8.97%,1.33
+Jovovic Nikola,S,124911,2021,Serbia,Serbia,30,197,15,1,5,41.67%,0.33,8,17.78%,0.53,2,1.27%,0.13
+Kujundžić Miran,OH,162122,2021,Serbia,Serbia,24,196,30,2.14,26,41.94%,1.86,2,14.29%,0.14,2,6.06%,0.14
+Batak Aleksa,S,173249,2021,Serbia,Serbia,22,198,0,0,0,-,-,0,-,-,0,-,-
+Peric Pavle,OH,173251,2021,Serbia,Serbia,23,207,56,3.73,44,47.83%,2.93,8,33.33%,0.53,4,5.97%,0.27
+Simic Stevan,MB,143792,2021,Serbia,Serbia,26,201,14,1.17,11,84.62%,0.92,3,20.00%,0.25,0,0.00%,0
+Atanasijevic Aleksandar,O,124915,2021,Serbia,Serbia,30,200,128,8.53,114,48.93%,7.6,6,11.32%,0.4,8,6.61%,0.53
+Luburic Drazen,O,143794,2021,Serbia,Serbia,28,202,159,10.6,133,51.15%,8.87,7,15.91%,0.47,19,15.20%,1.27
+Podrascanin Marko,MB,116525,2021,Serbia,Serbia,34,204,140,9.33,87,67.44%,5.8,44,27.33%,2.93,9,3.98%,0.6
+Todorovic Vuk,S,173250,2021,Serbia,Serbia,23,190,4,0.31,2,66.67%,0.15,1,5.56%,0.08,1,1.85%,0.08
+Vucicevic Bozidar,O,168276,2021,Serbia,Serbia,23,205,0,0,0,0.00%,0,0,-,-,0,-,-
+Kovac Davide,OH,146751,2021,Serbia,Serbia,22,192,5,0.33,4,26.67%,0.27,1,20.00%,0.07,0,0.00%,0
+Slobodan KOVAČ,COACH,N/A,2021,Serbia,,,,,,,,,,,,,,
+Štern Tonček,O,151390,2021,Slovenia,Slovenia,26,200,182,12.13,154,49.36%,10.27,15,18.99%,1,13,7.03%,0.87
+Pajenk Alen,MB,114962,2021,Slovenia,Slovenia,35,203,140,8.24,102,64.56%,6,20,17.54%,1.18,18,7.00%,1.06
+Pernuš Gregor,S,181130,2021,Slovenia,Slovenia,22,195,1,0.25,0,-,-,1,100%,0.25,0,0.00%,0
+Kozamernik Jan,MB,151391,2021,Slovenia,Slovenia,26,204,99,6.19,65,58.56%,4.06,27,19.85%,1.69,7,3.55%,0.44
+Šket Alen,O,119022,2021,Slovenia,Slovenia,33,205,32,2,27,40.91%,1.69,2,8.33%,0.12,3,6.12%,0.19
+Gasparini Mitja,O,114952,2021,Slovenia,Slovenia,37,202,22,1.38,19,41.30%,1.19,2,50.00%,0.12,1,3.57%,0.06
+Vincic Dejan,S,114956,2021,Slovenia,Slovenia,35,200,4,0.29,0,0.00%,0,2,28.57%,0.14,2,11.76%,0.14
+Štalekar Sašo,MB,151404,2021,Slovenia,Slovenia,25,214,5,0.45,2,25.00%,0.18,3,27.27%,0.27,0,0.00%,0
+Štern Žiga,OH,155920,2021,Slovenia,Slovenia,28,193,41,2.41,37,48.68%,2.18,2,25.00%,0.12,2,6.25%,0.12
+Klobucar Jan,L,154546,2021,Slovenia,Slovenia,29,196,0,0,0,0.00%,0,0,-,-,0,0.00%,0
+Kovačič Jani,L,144415,2021,Slovenia,Slovenia,29,186,0,0,0,-,-,0,-,-,0,-,-
+Videčnik Matic,MB,161754,2021,Slovenia,Slovenia,28,203,5,0.36,4,66.67%,0.29,0,0.00%,0,1,4.35%,0.07
+Ropret Gregor,S,119018,2021,Slovenia,Slovenia,33,192,36,2.12,12,63.16%,0.71,11,16.42%,0.65,13,5.91%,0.76
+Urnaut Tine,OH,114957,2021,Slovenia,Slovenia,33,200,160,9.41,150,47.32%,8.82,7,13.73%,0.41,3,1.68%,0.18
+Čebulj Klemen,OH,136918,2021,Slovenia,Slovenia,30,202,234,13.76,200,47.17%,11.76,19,25.00%,1.12,15,7.25%,0.88
+Možič Rok,OH,168747,2021,Slovenia,Slovenia,20,200,75,4.41,66,56.90%,3.88,7,23.33%,0.41,2,3.64%,0.12
+ALBERTO GIULIANI,COACH,N/A,2021,Slovenia,,,,,,,,,,,,,,
+Anderson Matthew,O,118893,2021,USA,USA,34,202,89,9.89,77,54.61%,8.56,7,21.21%,0.78,5,6.76%,0.56
+Sander Taylor,OH,124941,2021,USA,USA,30,196,56,9.33,43,53.75%,7.17,8,38.10%,1.33,5,11.11%,0.83
+Jendryk II Jeffrey,MB,147721,2021,USA,USA,26,208,34,2.62,23,53.49%,1.77,10,30.30%,0.77,1,2.33%,0.08
+Ensing Kyle,O,147417,2021,USA,USA,25,201,88,6.29,70,44.30%,5,14,24.56%,1,4,4.65%,0.29
+Stahl Mitchell,MB,140185,2021,USA,USA,27,203,64,4.92,39,54.93%,3,15,22.39%,1.15,10,10.00%,0.77
+Shoji Kawika,S,118913,2021,USA,USA,34,190,14,1.08,7,87.50%,0.54,5,21.74%,0.38,2,4.26%,0.15
+Defalco Torey,OH,139254,2021,USA,USA,24,198,148,9.87,126,46.67%,8.4,18,31.58%,1.2,4,2.99%,0.27
+Hanes Jake,O,170104,2021,USA,USA,23,210,2,0.5,2,66.67%,0.5,0,0.00%,0,0,0.00%,0
+Christenson Micah,S,124879,2021,USA,USA,28,198,34,2.83,16,44.44%,1.33,5,10.00%,0.42,13,8.12%,1.08
+Holt Maxwell,MB,118901,2021,USA,USA,35,205,61,5.08,40,53.33%,3.33,15,29.41%,1.25,6,5.77%,0.5
+Patch Benjamin,O,136074,2021,USA,USA,27,203,64,7.11,55,47.83%,6.11,7,41.18%,0.78,2,4.26%,0.22
+Sander Brenden,OH,147725,2021,USA,USA,26,193,18,1.64,14,34.15%,1.27,2,25.00%,0.18,2,8.33%,0.18
+Tuaniga Joshua,S,147543,2021,USA,USA,25,191,4,0.8,4,66.67%,0.8,0,0.00%,0,0,0.00%,0
+Jaeschke Thomas,OH,143682,2021,USA,USA,28,198,54,4.5,43,42.16%,3.58,6,21.43%,0.5,5,7.81%,0.42
+Muagututia Garrett,OH,133463,2021,USA,USA,34,205,90,6,78,46.43%,5.2,4,12.90%,0.27,8,6.35%,0.53
+Averill Taylor,MB,148120,2021,USA,USA,30,201,21,3,17,62.96%,2.43,4,28.57%,0.57,0,0.00%,0
+Smith David,MB,116069,2021,USA,USA,36,201,60,4.29,42,53.85%,3,9,15.00%,0.64,9,7.76%,0.64
+Watten Dustin,L,133895,2021,USA,USA,35,182,0,0,0,-,-,0,-,-,0,-,-
+Shoji Erik,L,119732,2021,USA,USA,32,184,0,0,0,-,-,0,-,-,0,-,-
+John Speraw,COACH,N/A,2021,USA,,,,,,,,,,,,,,
+Sanchez Matias,S,142412,2022,Argentina,Argentina,26,175,8,0.67,5,45.45%,0.42,2,9.09%,0.17,1,1.04%,0.08
+Scarpa Tobias,L,174866,2022,Argentina,Argentina,21,180,-,-,-,-,-,-,-,-,-,-,-
+Martinez Franchi Jan,U,142410,2022,Argentina,Argentina,25,190,-,-,-,-,-,-,-,-,-,-,-
+Gallego Joaquin,MB,142411,2022,Argentina,Argentina,26,204,41,3.42,26,54.17%,2.17,15,30.00%,1.25,0,0.00%,0
+Urchevich Pablo,S,171315,2022,Argentina,Argentina,21,189,-,-,-,-,-,-,-,-,-,-,-
+Martina Federico,O,132647,2022,Argentina,Argentina,30,202,-,-,-,-,-,-,-,-,-,-,-
+Conte Facundo,OH,118886,2022,Argentina,Argentina,33,197,-,-,-,-,-,-,-,-,-,-,-
+Loser Agustin,MB,152692,2022,Argentina,Argentina,25,198,129,10.75,95,58.28%,7.92,26,17.45%,2.17,8,4.55%,0.67
+Danani Santiago,L,153053,2022,Argentina,Argentina,27,176,0,0,0,-,-,0,-,-,0,-,-
+Lazo Nicolás,OH,136737,2022,Argentina,Argentina,27,192,32,2.67,30,45.45%,2.5,0,0.00%,0,2,3.51%,0.17
+Armoa Manuel,OH,174853,2022,Argentina,Argentina,20,195,31,2.58,22,29.73%,1.83,7,38.89%,0.58,2,6.25%,0.17
+Lima Bruno,O,142415,2022,Argentina,Argentina,27,198,158,13.17,136,50.56%,11.33,12,17.39%,1,10,6.90%,0.83
+Palacios Ezequiel,OH,125048,2022,Argentina,Argentina,30,198,148,12.33,130,49.06%,10.83,9,9.68%,0.75,9,6.04%,0.75
+Mendez Nicolas,OH,125049,2022,Argentina,Argentina,30,191,-,-,-,-,-,-,-,-,-,-,-
+De Cecco Luciano,S,117457,2022,Argentina,Argentina,34,191,10,2.5,2,25.00%,0.5,3,11.11%,0.75,5,7.14%,1.25
+Palonsky Luciano,OH,162546,2022,Argentina,Argentina,23,198,78,6.5,76,49.67%,6.33,1,4.00%,0.08,1,1.43%,0.08
+Vicentin Luciano,OH,163555,2022,Argentina,Argentina,22,197,74,6.17,63,41.45%,5.25,6,16.67%,0.5,5,4.85%,0.42
+Ramos Martin,MB,125047,2022,Argentina,Argentina,31,197,27,2.25,20,51.28%,1.67,6,16.22%,0.5,1,1.89%,0.08
+Massimino Franco,L,135349,2022,Argentina,Argentina,34,177,0,0,0,-,-,0,-,-,0,-,-
+Zelayeta Mauro,OH,160816,2022,Argentina,Argentina,23,190,-,-,-,-,-,-,-,-,-,-,-
+Zerba Nicolas,MB,162543,2022,Argentina,Argentina,23,203,37,3.08,26,49.06%,2.17,8,8.99%,0.67,3,3.85%,0.25
+Rajczakowski Flavio,MB,162542,2022,Argentina,Argentina,24,200,-,-,-,-,-,-,-,-,-,-,-
+Balague Manuel,O,152699,2022,Argentina,Argentina,24,190,-,-,-,-,-,-,-,-,-,-,-
+Medina Franco,MB,163557,2022,Argentina,Argentina,23,197,-,-,-,-,-,-,-,-,-,-,-
+Giraudo Matias,S,142420,2022,Argentina,Argentina,25,196,9,1.12,4,66.67%,0.5,2,25.00%,0.25,3,11.11%,0.38
+Marcelo Rodolfo MENDEZ,COACH,N/A,2022,Argentina,,,,,,,,,,,,,,
+Graham Beau,MB,144457,2022,Australia,Australia,28,203,74,6.17,56,56.00%,4.67,13,18.06%,1.08,5,4.03%,0.42
+Dosanjh Arshdeep,S,144456,2022,Australia,Australia,26,205,30,2.5,20,52.63%,1.67,6,14.63%,0.5,4,4.08%,0.33
+Pope Lorenzo,OH,174192,2022,Australia,Australia,21,205,148,12.33,134,55.37%,11.17,11,26.19%,0.92,3,2.54%,0.25
+Holland Jackson,L,160879,2022,Australia,Australia,24,186,0,0,0,-,-,0,-,-,0,-,-
+Murch Malachi,OH,139052,2022,Australia,Australia,28,197,30,7.5,26,44.83%,6.5,4,30.77%,1,0,0.00%,0
+Edgar Thomas,O,125036,2022,Australia,Australia,33,212,-,-,-,-,-,-,-,-,-,-,-
+Weir James,MB,162077,2022,Australia,Australia,27,204,60,7.5,46,58.97%,5.75,10,17.86%,1.25,4,5.80%,0.5
+O'Dea Trent,MB,144464,2022,Australia,Australia,28,201,42,3.5,32,49.23%,2.67,8,18.60%,0.67,2,2.44%,0.17
+Staples Max,OH,135532,2022,Australia,Australia,28,194,28,7,22,34.38%,5.5,4,30.77%,1,2,4.55%,0.5
+Borgeaud Nicolas,S,151041,2022,Australia,Australia,29,190,-,-,-,-,-,-,-,-,-,-,-
+Perry Luke,L,144578,2022,Australia,Australia,27,180,0,0,0,-,-,0,-,-,0,-,-
+Mote Nehemiah,MB,144461,2022,Australia,Australia,29,203,-,-,-,-,-,-,-,-,-,-,-
+Heptinstall Thomas,O,168641,2022,Australia,Australia,24,206,69,5.75,58,39.46%,4.83,4,15.38%,0.33,7,6.14%,0.58
+Hazelden Hamish,O,162264,2022,Australia,Australia,26,204,27,3.38,24,44.44%,3,2,13.33%,0.25,1,3.85%,0.12
+McAinsh Conal Tain,MB,172376,2022,Australia,Australia,25,202,0,-,0,-,-,0,-,-,0,-,-
+Phillips Korben,MB,181281,2022,Australia,Australia,21,197,0,-,0,-,-,0,-,-,0,-,-
+Williams Lincoln Alexander,O,132958,2022,Australia,Australia,29,200,-,-,-,-,-,-,-,-,-,-,-
+D'Arcy-Miles William,O,186917,2022,Australia,Australia,20,211,-,-,-,-,-,-,-,-,-,-,-
+Butler Nicholas,S,158841,2022,Australia,Australia,25,198,5,0.42,2,33.33%,0.17,0,0.00%,0,3,6.25%,0.25
+Flowerday Sam,OH,178207,2022,Australia,Australia,20,191,4,0.33,4,25.00%,0.33,0,0.00%,0,0,0.00%,0
+Sidiropoulos Dimitri,S,172333,2022,Australia,Australia,28,196,-,-,-,-,-,-,-,-,-,-,-
+Senica Max,OH,162870,2022,Australia,Australia,23,191,31,2.58,30,35.71%,2.5,1,7.69%,0.08,0,0.00%,0
+Garrett Ethan,OH,169335,2022,Australia,Australia,22,196,19,1.58,17,36.96%,1.42,1,8.33%,0.08,1,3.33%,0.08
+Aubrey Matthew,O,162265,2022,Australia,Australia,25,209,23,5.75,21,43.75%,5.25,1,6.25%,0.25,1,4.35%,0.25
+Bray Lachlan,OH,189191,2022,Australia,Australia,24,196,-,-,-,-,-,-,-,-,-,-,-
+David Preston,COACH,N/A,2022,Australia,,,,,,,,,,,,,,
+Rezende Bruno Mossa,S,116099,2022,Brazil,Brazil,36,190,16,1.23,5,55.56%,0.38,3,5.77%,0.23,8,5.16%,0.62
+Andrade Leonardo Henrique,MB,174334,2022,Brazil,Brazil,20,203,0,-,0,-,-,0,-,-,0,-,-
+De Barros Ferreira João Rafael,OH,136955,2022,Brazil,Brazil,30,193,-,-,-,-,-,-,-,-,-,-,-
+Cargnin Paese Franco Willian,O,124456,2022,Brazil,Brazil,33,202,3,0.75,3,42.86%,0.75,0,0.00%,0,0,-,-
+Gonçalves Matheus Silva,S,161942,2022,Brazil,Brazil,25,185,-,-,-,-,-,-,-,-,-,-,-
+Fernandes P.X.Cavalcante Adriano,OH,174908,2022,Brazil,Brazil,21,201,41,3.15,34,47.89%,2.62,2,11.11%,0.15,5,7.14%,0.38
+Arjona William,S,135380,2022,Brazil,Brazil,43,186,-,-,-,-,-,-,-,-,-,-,-
+De Souza Wallace,O,112869,2022,Brazil,Brazil,35,198,-,-,-,-,-,-,-,-,-,-,-
+Leal Hidalgo Yoandy,OH,118928,2022,Brazil,Brazil,34,202,112,12.44,100,52.63%,11.11,6,13.33%,0.67,6,5.17%,0.67
+Bispo dos Santos Matheus,MB,164313,2022,Brazil,Brazil,26,207,-,-,-,-,-,-,-,-,-,-,-
+Leao Rodrigo,OH,142721,2022,Brazil,Brazil,26,197,49,3.77,35,42.68%,2.69,6,24.00%,0.46,8,12.90%,0.62
+Santos Isac,MB,119872,2022,Brazil,Brazil,32,208,67,5.15,47,62.67%,3.62,10,13.51%,0.77,10,9.26%,0.77
+Kavalkievicz Gabriel,OH,151789,2022,Brazil,Brazil,26,191,7,1.75,7,46.67%,1.75,0,0.00%,0,0,0.00%,0
+Gil Kreling Fernando,S,142744,2022,Brazil,Brazil,27,186,2,0.15,1,50.00%,0.08,0,0.00%,0,1,3.33%,0.08
+Nascimento Maique Reis,L,161939,2022,Brazil,Brazil,25,187,0,0,0,-,-,0,-,-,0,-,-
+Saatkamp Lucas,MB,116081,2022,Brazil,Brazil,37,209,54,6.75,38,57.58%,4.75,11,20.00%,1.38,5,4.90%,0.62
+Hoss Thales,L,118916,2022,Brazil,Brazil,33,190,0,0,0,-,-,0,-,-,0,-,-
+Souza Ricardo Lucarelli,OH,136468,2022,Brazil,Brazil,31,196,88,9.78,75,51.37%,8.33,6,18.75%,0.67,7,6.67%,0.78
+Santos Leandro,MB,136954,2022,Brazil,Brazil,30,197,2,0.15,1,100%,0.08,1,33.33%,0.08,0,0.00%,0
+Honorato Henrique Dantas Nóbrega,OH,161930,2022,Brazil,Brazil,26,190,0,0,0,-,-,0,-,-,0,0.00%,0
+Souza Alan,O,136947,2022,Brazil,Brazil,29,202,113,16.14,98,54.75%,14,9,20.45%,1.29,6,7.23%,0.86
+Elias Alexandre Figueiredo,L,161911,2022,Brazil,Brazil,25,190,-,-,-,-,-,-,-,-,-,-,-
+Resende Gualberto Flavio,MB,136956,2022,Brazil,Brazil,29,199,108,8.31,78,61.90%,6,29,22.48%,2.23,1,0.78%,0.08
+Almeida Cardoso Victor Alexsander,OH,161946,2022,Brazil,Brazil,24,199,0,0,0,0.00%,0,0,-,-,0,0.00%,0
+Ferreira Souza Darlan,O,174902,2022,Brazil,Brazil,20,192,81,9,75,53.19%,8.33,4,9.30%,0.44,2,3.08%,0.22
+RENAN DAL ZOTTO,COACH,N/A,2022,Brazil,,,,,,,,,,,,,,
+Karyagin Denis,OH,174445,2022,Bulgaria,Bulgaria,20,206,40,3.33,37,45.12%,3.08,1,11.11%,0.08,2,4.88%,0.17
+Chavdarov Stefan,MB,180588,2022,Bulgaria,Bulgaria,27,202,27,2.25,21,58.33%,1.75,3,15.00%,0.25,3,5.56%,0.25
+Kolev Nikolay,MB,173067,2022,Bulgaria,Bulgaria,25,204,77,6.42,58,65.91%,4.83,16,23.19%,1.33,3,2.48%,0.25
+Atanasov Martin,OH,156676,2022,Bulgaria,Bulgaria,26,197,139,11.58,117,45.88%,9.75,7,18.42%,0.58,15,10.20%,1.25
+Gotsev Svetoslav,MB,132035,2022,Bulgaria,Bulgaria,32,205,82,6.83,44,61.11%,3.67,35,38.04%,2.92,3,2.91%,0.25
+Stankov Vladimir,S,162124,2022,Bulgaria,Bulgaria,26,190,-,-,-,-,-,-,-,-,-,-,-
+Dimitrov Dobromir,S,136489,2022,Bulgaria,Bulgaria,31,198,4,0.33,2,33.33%,0.17,0,0.00%,0,2,4.65%,0.17
+Seganov Georgi,S,137012,2022,Bulgaria,Bulgaria,29,197,18,1.5,9,47.37%,0.75,8,18.18%,0.67,1,0.75%,0.08
+Stankov Svetoslav,S,181285,2022,Bulgaria,Bulgaria,26,195,-,-,-,-,-,-,-,-,-,-,-
+Grozdanov Aleks,MB,152619,2022,Bulgaria,Bulgaria,24,208,25,6.25,15,44.12%,3.75,8,14.29%,2,2,5.26%,0.5
+Tatarov Georgi,O,174484,2022,Bulgaria,Bulgaria,19,198,-,-,-,-,-,-,-,-,-,-,-
+Dimitrov Dimitar,O,180587,2022,Bulgaria,Bulgaria,22,208,-,-,-,-,-,-,-,-,-,-,-
+Asparuhov Asparuh,OH,168269,2022,Bulgaria,Bulgaria,22,201,48,4,37,43.02%,3.08,6,26.09%,0.5,5,11.36%,0.42
+Parapunov Radoslav,O,150277,2022,Bulgaria,Bulgaria,25,205,88,7.33,72,40.22%,6,12,20.00%,1,4,3.92%,0.33
+Ivanov Vladislav,L,118484,2022,Bulgaria,Bulgaria,36,188,0,0,0,-,-,0,-,-,0,-,-
+Valchinov Samuil,OH,174444,2022,Bulgaria,Bulgaria,21,202,0,-,0,-,-,0,-,-,0,-,-
+Ivanov Svetoslav,OH,164812,2022,Bulgaria,Bulgaria,22,197,10,0.83,8,50.00%,0.67,1,20.00%,0.08,1,9.09%,0.08
+Ragin Ventsislav,MB,136483,2022,Bulgaria,Bulgaria,30,201,-,-,-,-,-,-,-,-,-,-,-
+Petkov Iliya,MB,168268,2022,Bulgaria,Bulgaria,26,200,0,-,0,-,-,0,-,-,0,-,-
+Kartev Nikolay,MB,162123,2022,Bulgaria,Bulgaria,27,204,-,-,-,-,-,-,-,-,-,-,-
+Nikolov Aleksandar,OH,180586,2022,Bulgaria,Bulgaria,19,207,172,14.33,150,51.72%,12.5,13,22.81%,1.08,9,5.70%,0.75
+Ivanov Martin,L,173009,2022,Bulgaria,Bulgaria,31,190,0,0,0,-,-,0,-,-,0,-,-
+Antov Venislav,O,181806,2022,Bulgaria,Bulgaria,18,196,-,-,-,-,-,-,-,-,-,-,-
+Zahariev Nikolay,MB,174446,2022,Bulgaria,Bulgaria,22,205,-,-,-,-,-,-,-,-,-,-,-
+Bozhilov Martin,L,135372,2022,Bulgaria,Bulgaria,34,190,-,-,-,-,-,-,-,-,-,-,-
+Nikolay Jeliazkov,COACH,N/A,2022,Bulgaria,,,,,,,,,,,,,,
+Canham Jordan,O,168941,2022,Canada,Canada,22,195,-,-,-,-,-,-,-,-,-,-,-
+Neaves Matthew,O,168922,2022,Canada,Canada,22,208,-,-,-,-,-,-,-,-,-,-,-
+Elser Jesse,OH,162249,2022,Canada,Canada,23,204,0,0,0,-,-,0,-,-,0,-,-
+Hoag Nicholas,OH,136291,2022,Canada,Canada,30,200,37,4.11,33,48.53%,3.67,2,20.00%,0.22,2,3.39%,0.22
+Loeppky Eric,OH,157327,2022,Canada,Canada,24,197,73,9.12,60,42.55%,7.5,4,23.53%,0.5,9,11.39%,1.12
+Demyanenko Danny,MB,140042,2022,Canada,Canada,28,196,-,-,-,-,-,-,-,-,-,-,-
+Maar Stephen Timothy,OH,140061,2022,Canada,Canada,28,201,163,13.58,139,43.99%,11.58,9,14.06%,0.75,15,10.87%,1.25
+Walsh Brett James,S,143745,2022,Canada,Canada,29,196,14,1.75,5,38.46%,0.62,5,16.67%,0.62,4,5.63%,0.5
+Blankenau Jay,S,124553,2022,Canada,Canada,33,194,4,0.5,2,50.00%,0.25,0,0.00%,0,2,7.41%,0.25
+Sclater Ryan Joseph,O,140428,2022,Canada,Canada,29,200,102,8.5,83,49.70%,6.92,10,17.86%,0.83,9,7.32%,0.75
+Eshenko Pearson,MB,157324,2022,Canada,Canada,25,204,40,3.33,26,46.43%,2.17,12,18.18%,1,2,2.99%,0.17
+Van Berkel Lucas,MB,136296,2022,Canada,Canada,31,210,30,2.5,25,55.56%,2.08,5,7.25%,0.42,0,0.00%,0
+Elgert Max,S,157588,2022,Canada,Canada,24,191,-,-,-,-,-,-,-,-,-,-,-
+Ketrzynski Xander,MB,168918,2022,Canada,Canada,23,208,-,-,-,-,-,-,-,-,-,-,-
+Wilson Marc Major,L,153661,2022,Canada,Canada,31,203,5,0.62,4,57.14%,0.5,1,16.67%,0.12,0,0.00%,0
+Schnitzer Jordan,MB,183276,2022,Canada,Canada,23,198,-,-,-,-,-,-,-,-,-,-,-
+Barnes Ryley Brendan,OH,140057,2022,Canada,Canada,29,200,12,1,12,35.29%,1,0,0.00%,0,0,0.00%,0
+Lui Justin,L,168925,2022,Canada,Canada,22,178,0,0,0,-,-,0,-,-,0,-,-
+Hofer Brodie,OH,168914,2022,Canada,Canada,22,200,40,3.33,30,45.45%,2.5,1,8.33%,0.08,9,13.64%,0.75
+Epp Derek,S,157332,2022,Canada,Canada,24,201,3,0.5,2,40.00%,0.33,1,7.14%,0.17,0,0.00%,0
+Howe Jackson,MB,169578,2022,Canada,Canada,24,198,60,5,45,56.96%,3.75,13,16.46%,1.08,2,2.50%,0.17
+Koppers Brandon,OH,148397,2022,Canada,Canada,27,200,-,-,-,-,-,-,-,-,-,-,-
+McCarthy Fynnian Lionel,MB,162251,2022,Canada,Canada,23,200,-,-,-,-,-,-,-,-,-,-,-
+Elser Mathias,OH,168908,2022,Canada,Canada,21,198,29,2.42,26,47.27%,2.17,2,18.18%,0.17,1,1.75%,0.08
+Cooper Samuel,OH,182679,2022,Canada,Canada,21,200,15,2.14,14,45.16%,2,0,0.00%,0,1,5.88%,0.14
+Benjamin Josephson,COACH,N/A,2022,Canada,,,,,,,,,,,,,,
+Dai Qingyao,OH,122004,2022,China,China,31,208,-,-,-,-,-,-,-,-,-,-,-
+Jiang Chuan,O,142855,2022,China,China,28,205,-,-,-,-,-,-,-,-,-,-,-
+Qu Zongshuai,L,174158,2022,China,China,24,186,-,-,-,-,-,-,-,-,-,-,-
+Yang Yiming,L,174295,2022,China,China,23,186,0,0,0,-,-,0,-,-,0,-,-
+Zhang Binglong,OH,153610,2022,China,China,28,197,12,1.2,11,45.83%,1.1,0,0.00%,0,1,3.70%,0.1
+Yu Yuantai,OH,152518,2022,China,China,25,186,66,6.6,57,44.88%,5.7,6,27.27%,0.6,3,2.59%,0.3
+Yu Yaochen,S,142593,2022,China,China,27,195,20,2,8,66.67%,0.8,9,23.08%,0.9,3,2.80%,0.3
+Yang Tianyuan,L,168272,2022,China,China,28,180,0,0,0,-,-,0,-,-,0,-,-
+Li Yongzhen,MB,181103,2022,China,China,24,198,68,6.8,43,61.43%,4.3,21,24.71%,2.1,4,3.92%,0.4
+Liu Meng,S,158965,2022,China,China,28,195,2,0.5,1,33.33%,0.25,0,-,-,1,14.29%,0.25
+Jiang Zhengyang,MB,152526,2022,China,China,24,202,20,2,12,66.67%,1.2,8,38.10%,0.8,0,0.00%,0
+Zhang Zhejia,MB,142581,2022,China,China,27,207,-,-,-,-,-,-,-,-,-,-,-
+Chen Leiyang,S,152511,2022,China,China,24,198,-,-,-,-,-,-,-,-,-,-,-
+Wang Dongchen,MB,173184,2022,China,China,22,200,-,-,-,-,-,-,-,-,-,-,-
+Peng Shikun,MB,168175,2022,China,China,22,208,67,7.44,45,57.69%,5,16,25.81%,1.78,6,5.13%,0.67
+Wang Hebin,S,174297,2022,China,China,23,188,2,0.2,1,50.00%,0.1,1,14.29%,0.1,0,0.00%,0
+Wang Jingyi,O,152513,2022,China,China,25,202,35,5.83,34,49.28%,5.67,1,25.00%,0.17,0,0.00%,0
+Yuan Dangyi,OH,162272,2022,China,China,26,200,1,0.1,1,20.00%,0.1,0,0.00%,0,0,0.00%,0
+Zhang Guanhua,O,182707,2022,China,China,25,202,86,8.6,79,46.20%,7.9,6,28.57%,0.6,1,1.15%,0.1
+Dai Haibo,MB,189181,2022,China,China,25,201,-,-,-,-,-,-,-,-,-,-,-
+Miao Ruantong,MB,153096,2022,China,China,27,205,1,0.1,1,33.33%,0.1,0,0.00%,0,0,0.00%,0
+Zhang Jingyin,OH,168271,2022,China,China,23,207,154,15.4,140,53.44%,14,5,10.42%,0.5,9,7.26%,0.9
+Wu Pengzhi,O,181102,2022,China,China,27,200,-,-,-,-,-,-,-,-,-,-,-
+Qi Jiahao,L,162470,2022,China,China,23,183,-,-,-,-,-,-,-,-,-,-,-
+Zhai Dejun,OH,174159,2022,China,China,23,195,-,-,-,-,-,-,-,-,-,-,-
+SHENG WU,COACH,N/A,2022,China,,,,,,,,,,,,,,
+Chinenyeze Barthélémy,MB,152494,2022,France,France,25,204,102,7.29,75,66.96%,5.36,20,19.61%,1.43,7,6.31%,0.5
+Grebennikov Jenia,L,119792,2022,France,France,32,188,0,0,0,-,-,0,-,-,0,-,-
+Corre Raphaël,S,119791,2022,France,France,33,196,6,0.86,1,50.00%,0.14,1,14.29%,0.14,4,9.52%,0.57
+Patry Jean,O,142694,2022,France,France,26,207,136,9.71,115,48.12%,8.21,10,21.74%,0.71,11,8.73%,0.79
+Mouiel Jérémie,L,142691,2022,France,France,27,176,0,0,0,-,-,0,-,-,0,-,-
+Toniutti Benjamin,S,119804,2022,France,France,33,183,1,0.1,0,0.00%,0,1,5.56%,0.1,0,0.00%,0
+Tillie Kevin,OH,124518,2022,France,France,32,200,2,0.5,2,28.57%,0.5,0,0.00%,0,0,0.00%,0
+Ngapeth Earvin,OH,119800,2022,France,France,32,194,138,9.86,116,53.21%,8.29,8,19.05%,0.57,14,9.03%,1
+Brizard Antoine,S,136851,2022,France,France,28,196,41,3.73,17,60.71%,1.55,9,20.00%,0.82,15,12.61%,1.36
+Boyer Stephen,O,142710,2022,France,France,26,196,104,7.43,89,51.15%,6.36,9,24.32%,0.64,6,6.67%,0.43
+Ramon Luca,L,164029,2022,France,France,22,186,-,-,-,-,-,-,-,-,-,-,-
+Le Goff Nicolas,MB,125073,2022,France,France,31,206,55,5.5,34,51.52%,3.4,18,26.87%,1.8,3,4.17%,0.3
+Henry Médéric,MB,136855,2022,France,France,27,212,14,1,10,41.67%,0.71,4,11.43%,0.29,0,0.00%,0
+Bultor Daryl,MB,142677,2022,France,France,27,197,-,-,-,-,-,-,-,-,-,-,-
+Clevenot Trevor,OH,132948,2022,France,France,28,199,86,8.6,72,51.06%,7.2,4,10.81%,0.4,10,8.55%,1
+Louati Yacine,OH,120735,2022,France,France,31,198,85,6.07,69,44.81%,4.93,8,13.56%,0.57,8,6.67%,0.57
+Diez Benjamin,L,152506,2022,France,France,24,183,0,0,0,-,-,0,-,-,0,-,-
+Faure Théo,O,163309,2022,France,France,23,202,-,-,-,-,-,-,-,-,-,-,-
+Derouillon Pierre,OH,152531,2022,France,France,23,197,17,1.21,15,48.39%,1.07,0,0.00%,0,2,10.53%,0.14
+Basic Luka,OH,142659,2022,France,France,28,198,-,-,-,-,-,-,-,-,-,-,-
+Gueye Mousse,MB,181197,2022,France,France,26,198,0,-,0,-,-,0,-,-,0,-,-
+Jouffroy Quentin,MB,136856,2022,France,France,29,202,47,3.36,25,55.56%,1.79,9,14.52%,0.64,13,11.11%,0.93
+Rebeyrol François,OH,164022,2022,France,France,23,200,-,-,-,-,-,-,-,-,-,-,-
+Lawani Ibrahim,O,183115,2022,France,France,21,198,-,-,-,-,-,-,-,-,-,-,-
+Gill Thomas,S,164020,2022,France,France,22,196,-,-,-,-,-,-,-,-,-,-,-
+Andrea GIANI,COACH,N/A,2022,France,,,,,,,,,,,,,,
+Fromm Christian,OH,119779,2022,Germany,Germany,32,204,130,11.82,107,42.29%,9.73,15,29.41%,1.36,8,5.84%,0.73
+Tille Johannes,S,152469,2022,Germany,Germany,25,186,7,1,1,50.00%,0.14,3,27.27%,0.43,3,6.67%,0.43
+Schott Ruben,OH,136441,2022,Germany,Germany,28,193,-,-,-,-,-,-,-,-,-,-,-
+Graven Leonard,L,182291,2022,Germany,Germany,18,180,0,0,0,-,-,0,-,-,0,-,-
+Reichert Moritz,OH,139386,2022,Germany,Germany,28,194,90,8.18,77,49.36%,7,5,16.67%,0.45,8,7.27%,0.73
+Zenger Julian,L,152470,2022,Germany,Germany,25,190,0,0,0,-,-,0,-,-,0,-,-
+Kampa Lukas,S,116575,2022,Germany,Germany,36,196,-,-,-,-,-,-,-,-,-,-,-
+Karlitzek Moritz,OH,156597,2022,Germany,Germany,26,191,-,-,-,-,-,-,-,-,-,-,-
+Hüther Franz,MB,189255,2022,Germany,Germany,20,213,-,-,-,-,-,-,-,-,-,-,-
+Burggräf Eric,S,162788,2022,Germany,Germany,24,184,-,-,-,-,-,-,-,-,-,-,-
+Zimmermann Jan,S,136442,2022,Germany,Germany,30,190,9,0.82,4,28.57%,0.36,1,2.70%,0.09,4,3.15%,0.36
+Krage Florian,MB,162790,2022,Germany,Germany,26,203,50,4.55,36,56.25%,3.27,10,15.38%,0.91,4,3.92%,0.36
+Röhrs Erik,OH,174660,2022,Germany,Germany,21,194,2,1,0,0.00%,0,0,-,-,2,25.00%,1
+Weber Linus,O,162082,2022,Germany,Germany,23,203,124,15.5,106,45.49%,13.25,10,18.87%,1.25,8,8.42%,1
+Krick Tobias,MB,152349,2022,Germany,Germany,24,210,77,7,55,55.00%,5,17,20.73%,1.55,5,7.14%,0.45
+Brand Tobias,OH,163592,2022,Germany,Germany,24,193,59,5.36,54,39.42%,4.91,4,11.43%,0.36,1,1.03%,0.09
+Goralik Yannick,MB,183112,2022,Germany,Germany,25,206,0,-,0,-,-,0,-,-,0,-,-
+Malescha Daniel,O,156598,2022,Germany,Germany,28,203,-,-,-,-,-,-,-,-,-,-,-
+Maase Lukas,MB,152352,2022,Germany,Germany,24,208,94,10.44,70,44.87%,7.78,18,18.00%,2,6,4.29%,0.67
+Eckardt Moritz,L,174663,2022,Germany,Germany,21,183,-,-,-,-,-,-,-,-,-,-,-
+Dervisaj Leon,S,176931,2022,Germany,Germany,26,194,1,0.25,1,100%,0.25,0,0.00%,0,0,0.00%,0
+Ferch Iven,MB,152751,2022,Germany,Germany,25,208,1,0.09,1,100%,0.09,0,0.00%,0,0,0.00%,0
+Peter Tim,OH,152713,2022,Germany,Germany,25,197,9,0.82,7,53.85%,0.64,0,0.00%,0,2,9.09%,0.18
+Schulz Max,OH,174640,2022,Germany,Germany,20,200,13,1.62,10,38.46%,1.25,3,25.00%,0.38,0,0.00%,0
+Gallas Simon,O,181283,2022,Germany,Germany,21,202,-,-,-,-,-,-,-,-,-,-,-
+Michał WINIARSKI,COACH,N/A,2022,Germany,,,,,,,,,,,,,,
+Jelveh Ghaziani Mahdi,MB,163173,2022,Iran,Iran,21,208,57,4.38,32,54.24%,2.46,20,26.67%,1.54,5,4.10%,0.38
+Ebadipour Ghara H. Milad,OH,136751,2022,Iran,Iran,29,196,146,11.23,114,48.10%,8.77,14,36.84%,1.08,18,10.65%,1.38
+Abedini Reza,MB,150817,2022,Iran,Iran,31,203,5,1.67,2,50.00%,0.67,2,15.38%,0.67,1,9.09%,0.33
+Toukhteh Amir Hossein,MB,163179,2022,Iran,Iran,21,203,70,5.38,52,61.18%,4,8,12.50%,0.62,10,6.58%,0.77
+Mosaferdashliboroun Esmaeil,OH,152741,2022,Iran,Iran,25,192,3,0.38,2,40.00%,0.25,1,33.33%,0.12,0,0.00%,0
+Hazratpourtalatappeh Mohammadreza,L,163176,2022,Iran,Iran,23,187,0,0,0,-,-,0,-,-,0,-,-
+Moazzen Mohammadreza,L,153535,2022,Iran,Iran,31,175,0,0,0,-,-,0,-,-,0,-,-
+Kazemi Saber,O,164188,2022,Iran,Iran,24,205,11,2.75,7,28.00%,1.75,0,0.00%,0,4,21.05%,1
+Mirzajanpour M. Mojtaba,OH,124251,2022,Iran,Iran,31,205,-,-,-,-,-,-,-,-,-,-,-
+Ramezani Ali,S,152753,2022,Iran,Iran,24,200,2,0.25,1,33.33%,0.12,0,0.00%,0,1,6.67%,0.12
+Salehi Meisam,OH,162557,2022,Iran,Iran,24,198,-,-,-,-,-,-,-,-,-,-,-
+Mojarad Aliasghar,MB,152743,2022,Iran,Iran,25,205,-,-,-,-,-,-,-,-,-,-,-
+Gholipour Gholchi Abolfazl,L,132534,2022,Iran,Iran,30,178,0,-,0,-,-,0,-,-,0,-,-
+Esmaeilnezhad Amin,O,153539,2022,Iran,Iran,26,203,215,16.54,190,54.13%,14.62,12,19.67%,0.92,13,7.43%,1
+Vadi Mohammad Taher,S,119750,2022,Iran,Iran,33,194,17,1.31,8,61.54%,0.62,6,15.79%,0.46,3,2.11%,0.23
+Daneshdoust Ehsan,OH,163174,2022,Iran,Iran,23,192,1,0.2,1,100%,0.2,0,-,-,0,-,-
+Yali Porya,O,152762,2022,Iran,Iran,24,209,-,-,-,-,-,-,-,-,-,-,-
+Sarlak Amir Reza,MB,174560,2022,Iran,Iran,21,201,7,0.78,5,55.56%,0.56,2,16.67%,0.22,0,0.00%,0
+Esfandiar Amirhossein,OH,152752,2022,Iran,Iran,24,209,131,10.08,101,49.27%,7.77,14,24.14%,1.08,16,12.03%,1.23
+Saadat Bardia,O,168551,2022,Iran,Iran,20,205,5,0.56,4,50.00%,0.44,0,0.00%,0,1,25.00%,0.11
+Karimisouchelmaei Javad,S,152755,2022,Iran,Iran,25,204,-,-,-,-,-,-,-,-,-,-,-
+Pazhooman Fazel,S,189118,2022,Iran,Iran,29,204,0,0,0,0.00%,0,0,-,-,0,0.00%,0
+Malakisorkhi Mehrab,MB,189175,2022,Iran,Iran,24,206,6,0.46,5,50.00%,0.38,0,0.00%,0,1,8.33%,0.08
+Farhadi Amir Hassan,OH,182187,2022,Iran,Iran,25,202,-,-,-,-,-,-,-,-,-,-,-
+Sharifi Morteza,OH,152742,2022,Iran,Iran,23,193,50,3.85,40,54.79%,3.08,3,18.75%,0.23,7,11.86%,0.54
+Behrouz ATAEI NOURI,COACH,N/A,2022,Iran,,,,,,,,,,,,,,
+Pinali Giulio,O,162518,2022,Italy,Italy,25,199,29,3.62,26,50.00%,3.25,1,7.14%,0.12,2,8.00%,0.25
+Ricci Fabio,MB,141638,2022,Italy,Italy,28,204,0,0,0,-,-,0,-,-,0,0.00%,0
+Recine Francesco,OH,163033,2022,Italy,Italy,24,186,40,5.71,36,45.00%,5.14,3,15.00%,0.43,1,1.69%,0.14
+Cavuto Oreste,OH,152492,2022,Italy,Italy,26,196,0,0,0,-,-,0,-,-,0,-,-
+Michieletto Alessandro,OH,171191,2022,Italy,Italy,21,205,120,10.91,100,48.54%,9.09,10,22.73%,0.91,10,6.58%,0.91
+Giannelli Simone,S,144005,2022,Italy,Italy,26,200,64,4.27,29,58.00%,1.93,23,26.74%,1.53,12,5.63%,0.8
+Balaso Fabio,L,150436,2022,Italy,Italy,27,178,0,0,0,-,-,0,-,-,0,-,-
+Sbertoli Riccardo,S,152370,2022,Italy,Italy,24,188,1,0.09,0,-,-,1,14.29%,0.09,0,0.00%,0
+Zaytsev Ivan,OH,120511,2022,Italy,Italy,34,204,34,4.86,31,48.44%,4.43,2,18.18%,0.29,1,3.33%,0.14
+Falaschi Marco,S,115843,2022,Italy,Italy,35,188,0,0,0,-,-,0,0.00%,0,0,0.00%,0
+Gardini Davide,OH,152422,2022,Italy,Italy,24,205,0,0,0,0.00%,0,0,0.00%,0,0,0.00%,0
+Bottolo Mattia,OH,163447,2022,Italy,Italy,23,196,59,3.93,45,41.67%,3,5,17.24%,0.33,9,11.84%,0.6
+Cortesia Lorenzo,MB,163028,2022,Italy,Italy,23,198,12,1.09,10,47.62%,0.91,2,12.50%,0.18,0,0.00%,0
+Galassi Gianluca,MB,152408,2022,Italy,Italy,25,201,90,6,60,57.69%,4,21,21.21%,1.4,9,7.69%,0.6
+Lavia Daniele,OH,153200,2022,Italy,Italy,23,200,148,13.45,125,49.41%,11.36,14,26.92%,1.27,9,6.04%,0.82
+Romanò Yuri,O,162520,2022,Italy,Italy,25,201,144,9.6,120,46.51%,8,12,20.34%,0.8,12,8.76%,0.8
+Anzani Simone,MB,124865,2022,Italy,Italy,31,204,53,4.82,32,62.75%,2.91,20,26.67%,1.82,1,1.15%,0.09
+Gironi Fabrizio,OH,163032,2022,Italy,Italy,23,200,0,-,0,-,-,0,-,-,0,-,-
+Russo Roberto,MB,152405,2022,Italy,Italy,26,207,34,4.86,22,64.71%,3.14,10,25.00%,1.43,2,4.00%,0.29
+Porro Paolo,S,172961,2022,Italy,Italy,21,185,-,-,-,-,-,-,-,-,-,-,-
+Piccinelli Alessandro,L,152412,2022,Italy,Italy,26,189,0,0,0,-,-,0,-,-,0,-,-
+Stefani Tommaso,O,172965,2022,Italy,Italy,21,210,-,-,-,-,-,-,-,-,-,-,-
+Scanferla Leonardo,L,181128,2022,Italy,Italy,24,184,0,0,0,-,-,0,-,-,0,-,-
+Vitelli Marco,MB,150435,2022,Italy,Italy,26,203,13,3.25,8,50.00%,2,2,8.70%,0.5,3,10.00%,0.75
+Mosca Leandro Ausibio,MB,174074,2022,Italy,Italy,22,208,14,2.33,9,75.00%,1.5,5,25.00%,0.83,0,0.00%,0
+FERDINANDO DE GIORGI,COACH,N/A,2022,Italy,,,,,,,,,,,,,,
+Nishida Yuji,O,163519,2022,Japan,Japan,23,187,201,15.46,162,54.92%,12.46,10,15.87%,0.77,29,18.24%,2.23
+Onodera Taishi,MB,142565,2022,Japan,Japan,27,200,57,4.38,43,58.90%,3.31,9,13.85%,0.69,5,3.82%,0.38
+Fukatsu Akihiro,S,118822,2022,Japan,Japan,35,183,-,-,-,-,-,-,-,-,-,-,-
+Otake Issei,O,142575,2022,Japan,Japan,27,202,-,-,-,-,-,-,-,-,-,-,-
+Otsuka Tatsunori,OH,163516,2022,Japan,Japan,22,194,68,5.23,65,45.14%,5,1,4.17%,0.08,2,2.74%,0.15
+Yamauchi Akihiro,MB,146409,2022,Japan,Japan,29,204,76,5.85,62,56.36%,4.77,10,10.42%,0.77,4,2.74%,0.31
+Takanashi Kenta,OH,153365,2022,Japan,Japan,26,190,38,4.22,35,46.67%,3.89,3,14.29%,0.33,0,0.00%,0
+Sekita Masahiro,S,133009,2022,Japan,Japan,29,175,8,0.62,4,57.14%,0.31,1,2.44%,0.08,3,2.33%,0.23
+Oya Masaki,S,142570,2022,Japan,Japan,27,178,4,0.44,3,60.00%,0.33,1,6.25%,0.11,0,0.00%,0
+Takahashi Kentaro,MB,142561,2022,Japan,Japan,28,202,42,4.67,31,70.45%,3.44,11,20.00%,1.22,0,0.00%,0
+Tomita Shoma,OH,178761,2022,Japan,Japan,25,190,4,0.5,4,22.22%,0.5,0,0.00%,0,0,0.00%,0
+Takahashi Ran,OH,178762,2022,Japan,Japan,21,188,78,6,69,46.00%,5.31,1,3.12%,0.08,8,6.50%,0.62
+Ogawa Tomohiro,L,180990,2022,Japan,Japan,26,176,0,0,0,-,-,0,-,-,0,-,-
+Ishikawa Yuki,OH,142568,2022,Japan,Japan,27,191,164,13.67,122,49.19%,10.17,13,22.41%,1.08,29,17.37%,2.42
+Miyaura Kento,O,163038,2022,Japan,Japan,24,190,43,4.78,39,46.43%,4.33,2,11.11%,0.22,2,5.13%,0.22
+Yamazaki Akito,OH,189192,2022,Japan,Japan,25,190,-,-,-,-,-,-,-,-,-,-,-
+Nakamoto Kenyu,OH,152593,2022,Japan,Japan,25,187,-,-,-,-,-,-,-,-,-,-,-
+Yamamoto Tomohiro,L,172893,2022,Japan,Japan,28,171,0,0,0,-,-,0,-,-,0,-,-
+Eiro Motoki,S,142562,2022,Japan,Japan,26,192,4,1,3,60.00%,0.75,1,9.09%,0.25,0,0.00%,0
+Higuchi Yuki,OH,153359,2022,Japan,Japan,26,191,-,-,-,-,-,-,-,-,-,-,-
+Takahashi Kazuyuki,L,189038,2022,Japan,Japan,23,170,-,-,-,-,-,-,-,-,-,-,-
+Murayama Go,MB,189037,2022,Japan,Japan,24,192,25,1.92,19,59.38%,1.46,3,12.50%,0.23,3,7.32%,0.23
+Evbade-Dan Larry Ik,MB,189039,2022,Japan,Japan,22,195,-,-,-,-,-,-,-,-,-,-,-
+Kai Masato,OH,189064,2022,Japan,Japan,19,200,-,-,-,-,-,-,-,-,-,-,-
+Komiya Yuichiro,MB,150729,2022,Japan,Japan,30,193,-,-,-,-,-,-,-,-,-,-,-
+Philippe BLAIN,COACH,N/A,2022,Japan,,,,,,,,,,,,,,
+Held Markus,S,181284,2022,Netherlands,Netherlands,22,187,-,-,-,-,-,-,-,-,-,-,-
+Keemink Wessel,S,141546,2022,Netherlands,Netherlands,29,197,20,1.54,13,61.90%,1,5,11.11%,0.38,2,1.43%,0.15
+Van Garderen Maarten,OH,139929,2022,Netherlands,Netherlands,33,200,37,4.11,31,37.80%,3.44,5,26.32%,0.56,1,2.22%,0.11
+Ter Horst Thijs,OH,137345,2022,Netherlands,Netherlands,31,204,78,6.5,66,51.16%,5.5,7,24.14%,0.58,5,7.94%,0.42
+van Der Ent Cornelis Luuc,MB,169921,2022,Netherlands,Netherlands,24,208,11,0.85,3,23.08%,0.23,5,16.67%,0.38,3,7.32%,0.23
+Wijkstra Jasper,OH,184894,2022,Netherlands,Netherlands,20,205,-,-,-,-,-,-,-,-,-,-,-
+Jorna Gijs,OH,131980,2022,Netherlands,Netherlands,33,196,47,3.62,39,37.50%,3,4,20.00%,0.31,4,4.12%,0.31
+Plak Fabian,MB,156678,2022,Netherlands,Netherlands,25,198,85,6.54,57,64.77%,4.38,19,19.59%,1.46,9,7.38%,0.69
+Ottevanger Steven,L,176460,2022,Netherlands,Netherlands,28,183,0,-,0,-,-,0,-,-,0,-,-
+van Tilburg Stijn,O,169923,2022,Netherlands,Netherlands,26,203,19,1.46,18,45.00%,1.38,1,12.50%,0.08,0,0.00%,0
+Brilhuis Martijn,O,181318,2022,Netherlands,Netherlands,22,203,-,-,-,-,-,-,-,-,-,-,-
+Tuinstra Bennie Junior,OH,170436,2022,Netherlands,Netherlands,22,200,122,9.38,99,44.00%,7.62,8,17.39%,0.62,15,10.27%,1.15
+Bleeker Mats,L,184896,2022,Netherlands,Netherlands,24,180,0,-,0,-,-,0,-,-,0,-,-
+Abdel-Aziz Nimir,O,137498,2022,Netherlands,Netherlands,31,201,247,19,207,50.49%,15.92,10,18.52%,0.77,30,17.14%,2.31
+van Solkema Gijs,S,164837,2022,Netherlands,Netherlands,24,193,1,0.12,0,0.00%,0,1,14.29%,0.12,0,0.00%,0
+Parkinson Michael,MB,137337,2022,Netherlands,Netherlands,31,203,17,1.31,13,61.90%,1,2,9.52%,0.15,2,6.45%,0.15
+Andringa Robbert,L,121992,2022,Netherlands,Netherlands,32,192,0,0,0,-,-,0,-,-,0,-,-
+de Weijer Freek,S,162642,2022,Netherlands,Netherlands,27,191,0,0,0,-,-,0,0.00%,0,0,0.00%,0
+Bak Yannick,OH,181317,2022,Netherlands,Netherlands,21,198,-,-,-,-,-,-,-,-,-,-,-
+Berkhout Joris,S,153711,2022,Netherlands,Netherlands,23,198,-,-,-,-,-,-,-,-,-,-,-
+Wiltenburg Twan,MB,150703,2022,Netherlands,Netherlands,26,205,43,3.31,20,47.62%,1.54,19,21.59%,1.46,4,3.64%,0.31
+Boekhoudt Robin,MB,184361,2022,Netherlands,Netherlands,22,205,-,-,-,-,-,-,-,-,-,-,-
+Hofman Ricardo,O,157237,2022,Netherlands,Netherlands,24,199,-,-,-,-,-,-,-,-,-,-,-
+Korenblek Siebe,MB,188782,2022,Netherlands,Netherlands,21,215,-,-,-,-,-,-,-,-,-,-,-
+Meijs Silvester,S,188784,2022,Netherlands,Netherlands,21,202,-,-,-,-,-,-,-,-,-,-,-
+Roberto Piazza,COACH,N/A,2022,Netherlands,,,,,,,,,,,,,,
+Lipinski Bartlomiej,OH,153394,2022,Poland,Poland,26,201,12,3,11,39.29%,2.75,0,0.00%,0,1,7.14%,0.25
+Muzaj Maciej,O,156531,2022,Poland,Poland,28,208,23,5.75,21,50.00%,5.25,2,18.18%,0.5,0,0.00%,0
+Popiwczak Jakub,L,153388,2022,Poland,Poland,26,180,0,0,0,-,-,0,-,-,0,-,-
+Kozub Lukasz,S,152872,2022,Poland,Poland,25,186,2,0.5,1,100%,0.25,1,20.00%,0.25,0,0.00%,0
+Kaczmarek Lukasz,O,162105,2022,Poland,Poland,28,204,39,3.55,33,48.53%,3,3,25.00%,0.27,3,5.77%,0.27
+Kurek Bartosz,O,115806,2022,Poland,Poland,34,205,134,12.18,111,51.87%,10.09,10,30.30%,0.91,13,11.30%,1.18
+Klos Karol,MB,118618,2022,Poland,Poland,33,201,64,4.27,39,69.64%,2.6,21,36.84%,1.4,4,5.00%,0.27
+Leon Venero Wilfredo,OH,119646,2022,Poland,Poland,29,202,-,-,-,-,-,-,-,-,-,-,-
+Bednorz Bartosz,OH,150742,2022,Poland,Poland,28,201,25,3.57,23,56.10%,3.29,1,33.33%,0.14,1,4.00%,0.14
+Lomacz Grzegorz,S,115794,2022,Poland,Poland,35,187,0,0,0,-,-,0,0.00%,0,0,0.00%,0
+Szymura Rafal,OH,142678,2022,Poland,Poland,27,196,13,3.25,13,43.33%,3.25,0,0.00%,0,0,0.00%,0
+Sliwka Aleksander,OH,142679,2022,Poland,Poland,27,196,68,6.18,59,50.86%,5.36,4,16.67%,0.36,5,5.68%,0.45
+Kochanowski Jakub,MB,152870,2022,Poland,Poland,25,199,84,5.6,54,59.34%,3.6,19,21.84%,1.27,11,7.59%,0.73
+Semeniuk Kamil,OH,153395,2022,Poland,Poland,26,195,104,9.45,86,48.31%,7.82,9,25.71%,0.82,9,7.56%,0.82
+Zatorski Pawel,L,118614,2022,Poland,Poland,32,184,0,0,0,-,-,0,-,-,0,-,-
+Kwolek Bartosz,OH,152873,2022,Poland,Poland,25,192,43,5.38,37,51.39%,4.62,2,10.53%,0.25,4,6.25%,0.5
+Janusz Marcin,S,165942,2022,Poland,Poland,28,196,8,0.73,1,33.33%,0.09,4,12.90%,0.36,3,3.90%,0.27
+Bieniek Mateusz,MB,150734,2022,Poland,Poland,28,210,83,7.55,53,62.35%,4.82,9,13.43%,0.82,21,13.73%,1.91
+Fornal Tomasz,OH,152866,2022,Poland,Poland,25,198,95,6.33,77,53.10%,5.13,7,17.07%,0.47,11,11.83%,0.73
+Urbanowicz Karol,MB,183851,2022,Poland,Poland,22,201,4,1,3,37.50%,0.75,0,0.00%,0,1,16.67%,0.25
+Butryn Karol,O,181100,2022,Poland,Poland,29,194,54,4.91,44,60.27%,4,4,21.05%,0.36,6,8.82%,0.55
+Szymura Kamil,L,164127,2022,Poland,Poland,24,184,0,0,0,-,-,0,-,-,0,-,-
+Poreba Mateusz,MB,164124,2022,Poland,Poland,23,203,26,3.25,16,66.67%,2,4,13.79%,0.5,6,10.71%,0.75
+Firlej Jan,S,153387,2022,Poland,Poland,26,187,6,0.75,3,50.00%,0.38,2,10.00%,0.25,1,2.17%,0.12
+Huber Norbert,MB,152869,2022,Poland,Poland,24,204,-,-,-,-,-,-,-,-,-,-,-
+Nikola GRBIĆ,COACH,N/A,2022,Poland,,,,,,,,,,,,,,
+Nikolic Uros,OH,181313,2022,Serbia,Serbia,24,210,3,0.75,2,50.00%,0.5,1,14.29%,0.25,0,0.00%,0
+Petric Nemanja,OH,120250,2022,Serbia,Serbia,35,203,8,1,7,36.84%,0.88,1,100%,0.12,0,0.00%,0
+Katic Milan,OH,132458,2022,Serbia,Serbia,29,202,26,2.17,23,44.23%,1.92,2,14.29%,0.17,1,2.56%,0.08
+Pekovic Nikola,L,150383,2022,Serbia,Serbia,33,176,0,0,0,-,-,0,-,-,0,-,-
+Krsmanovic Petar,MB,146579,2022,Serbia,Serbia,32,205,10,1.25,9,50.00%,1.12,1,5.56%,0.12,0,0.00%,0
+Ivovic Marko,OH,132022,2022,Serbia,Serbia,32,194,-,-,-,-,-,-,-,-,-,-,-
+Jovovic Nikola,S,124911,2022,Serbia,Serbia,31,197,11,0.92,7,63.64%,0.58,3,8.11%,0.25,1,1.03%,0.08
+Kujundžić Miran,OH,162122,2022,Serbia,Serbia,25,196,119,9.92,98,50.26%,8.17,6,23.08%,0.5,15,10.14%,1.25
+Peric Pavle,OH,173251,2022,Serbia,Serbia,24,207,130,10.83,109,45.99%,9.08,11,25.58%,0.92,10,7.81%,0.83
+Atanasijevic Aleksandar,O,124915,2022,Serbia,Serbia,31,200,96,12,89,52.66%,11.12,1,5.56%,0.12,6,6.98%,0.75
+Masulovic Nemanja,MB,150382,2022,Serbia,Serbia,27,205,65,5.42,52,60.47%,4.33,11,12.79%,0.92,2,1.98%,0.17
+Podrascanin Marko,MB,116525,2022,Serbia,Serbia,35,204,28,3.5,18,56.25%,2.25,8,25.00%,1,2,3.85%,0.25
+Lisinac Srecko,MB,136362,2022,Serbia,Serbia,30,205,49,6.12,40,71.43%,5,8,21.05%,1,1,1.37%,0.12
+Todorovic Vuk,S,173250,2022,Serbia,Serbia,24,190,1,0.12,1,100%,0.12,0,0.00%,0,0,0.00%,0
+Vilimanovic Andrija,S,168275,2022,Serbia,Serbia,27,195,-,-,-,-,-,-,-,-,-,-,-
+Vucicevic Bozidar,O,168276,2022,Serbia,Serbia,24,205,19,4.75,13,34.21%,3.25,2,50.00%,0.5,4,20.00%,1
+Tadic Luka,OH,173252,2022,Serbia,Serbia,22,204,-,-,-,-,-,-,-,-,-,-,-
+Marinovic Lazar,OH,189274,2022,Serbia,Serbia,24,197,12,3,11,35.48%,2.75,1,7.69%,0.25,0,0.00%,0
+Nedeljkovic Aleksandar,MB,164985,2022,Serbia,Serbia,25,205,28,7,18,54.55%,4.5,7,14.58%,1.75,3,5.00%,0.75
+Koprivica Lazar,L,124920,2022,Serbia,Serbia,31,200,0,0,0,-,-,0,-,-,0,-,-
+Meljanac Nikola,O,189272,2022,Serbia,Serbia,24,201,45,5.62,42,53.16%,5.25,1,11.11%,0.12,2,5.56%,0.25
+Petkovic Dusan,O,124912,2022,Serbia,Serbia,31,202,49,12.25,42,44.21%,10.5,2,11.76%,0.5,5,10.00%,1.25
+Rudic Andrej,MB,189276,2022,Serbia,Serbia,24,201,0,0,0,-,-,0,-,-,0,0.00%,0
+Vulikic Andrija,S,166724,2022,Serbia,Serbia,26,193,2,0.5,1,33.33%,0.25,1,50.00%,0.25,0,0.00%,0
+Milovic Miljan,L,189278,2022,Serbia,Serbia,28,190,-,-,-,-,-,-,-,-,-,-,-
+Igor KOLAKOVIĆ,COACH,N/A,2022,Serbia,,,,,,,,,,,,,,
+Štern Tonček,O,151390,2022,Slovenia,Slovenia,27,200,96,9.6,78,46.99%,7.8,7,17.95%,0.7,11,10.58%,1.1
+Pajenk Alen,MB,114962,2022,Slovenia,Slovenia,36,203,70,5.83,54,60.67%,4.5,12,20.69%,1,4,3.85%,0.33
+Planinšič Uroš,S,168715,2022,Slovenia,Slovenia,24,186,0,0,0,-,-,0,0.00%,0,0,0.00%,0
+Kozamernik Jan,MB,151391,2022,Slovenia,Slovenia,27,204,71,5.92,45,61.64%,3.75,22,25.00%,1.83,4,2.82%,0.33
+Šket Alen,O,119022,2022,Slovenia,Slovenia,34,205,-,-,-,-,-,-,-,-,-,-,-
+Gasparini Mitja,O,114952,2022,Slovenia,Slovenia,38,202,25,3.12,20,48.78%,2.5,2,25.00%,0.25,3,7.50%,0.38
+Košenina Alan,L,153301,2022,Slovenia,Slovenia,26,189,0,0,0,-,-,0,-,-,0,-,-
+Bošnjak Crtomir,OH,154046,2022,Slovenia,Slovenia,22,196,11,1.38,9,50.00%,1.12,2,40.00%,0.25,0,0.00%,0
+Vincic Dejan,S,114956,2022,Slovenia,Slovenia,36,200,6,0.75,3,42.86%,0.38,1,12.50%,0.12,2,6.25%,0.25
+Štalekar Sašo,MB,151404,2022,Slovenia,Slovenia,26,214,2,0.5,1,20.00%,0.25,1,9.09%,0.25,0,0.00%,0
+Koncilja Danijel,MB,144483,2022,Slovenia,Slovenia,32,201,29,2.42,25,51.02%,2.08,4,14.81%,0.33,0,0.00%,0
+Klobucar Jan,L,154546,2022,Slovenia,Slovenia,30,196,6,0.75,5,29.41%,0.62,1,25.00%,0.12,0,0.00%,0
+Kovačič Jani,L,144415,2022,Slovenia,Slovenia,30,186,0,0,0,-,-,0,-,-,0,-,-
+Štern Žiga,OH,155920,2022,Slovenia,Slovenia,29,193,53,4.42,50,45.45%,4.17,3,18.75%,0.25,0,0.00%,0
+Videčnik Matic,MB,161754,2022,Slovenia,Slovenia,29,203,5,0.62,3,50.00%,0.38,1,20.00%,0.12,1,7.14%,0.12
+Ropret Gregor,S,119018,2022,Slovenia,Slovenia,34,192,14,1.17,4,50.00%,0.33,5,18.52%,0.42,5,4.20%,0.42
+Urnaut Tine,OH,114957,2022,Slovenia,Slovenia,34,200,55,6.88,46,43.81%,5.75,3,17.65%,0.38,6,10.00%,0.75
+Čebulj Klemen,OH,136918,2022,Slovenia,Slovenia,31,202,45,11.25,39,43.82%,9.75,3,21.43%,0.75,3,5.66%,0.75
+Možič Rok,OH,168747,2022,Slovenia,Slovenia,21,200,141,11.75,123,48.62%,10.25,15,27.78%,1.25,3,2.78%,0.25
+Mujanovič Nik,O,182325,2022,Slovenia,Slovenia,18,206,-,-,-,-,-,-,-,-,-,-,-
+Pernuš Gregor,S,181130,2022,Slovenia,Slovenia,23,195,-,-,-,-,-,-,-,-,-,-,-
+Kržić Janez Janž,MB,185708,2022,Slovenia,Slovenia,19,202,-,-,-,-,-,-,-,-,-,-,-
+Okroglic Jure,OH,151399,2022,Slovenia,Slovenia,26,190,-,-,-,-,-,-,-,-,-,-,-
+MARK LEBEDEW,COACH,N/A,2022,Slovenia,,,,,,,,,,,,,,
+Russell Aaron,OH,132624,2022,USA,USA,29,205,197,13.13,162,50.00%,10.8,14,18.42%,0.93,21,10.88%,1.4
+Shaw James,S,136078,2022,USA,USA,29,203,4,0.5,2,40.00%,0.25,2,40.00%,0.25,0,0.00%,0
+Jendryk II Jeffrey,MB,147721,2022,USA,USA,27,208,107,7.13,79,65.83%,5.27,21,13.73%,1.4,7,4.09%,0.47
+Ensing Kyle,O,147417,2022,USA,USA,26,201,161,10.73,143,53.16%,9.53,8,9.30%,0.53,10,6.37%,0.67
+Stahl Mitchell,MB,140185,2022,USA,USA,28,203,23,2.09,15,55.56%,1.36,5,17.24%,0.45,3,8.57%,0.27
+Pasteur Jacob,OH,183140,2022,USA,USA,20,193,0,-,0,-,-,0,-,-,0,-,-
+Defalco Torey,OH,139254,2022,USA,USA,25,198,180,16.36,157,55.09%,14.27,9,13.04%,0.82,14,7.41%,1.27
+Hanes Jake,O,170104,2022,USA,USA,24,210,36,4.5,33,47.83%,4.12,2,12.50%,0.25,1,2.63%,0.12
+Dagostino Kyle,L,142445,2022,USA,USA,27,175,0,0,0,-,-,0,-,-,0,-,-
+Christenson Micah,S,124879,2022,USA,USA,29,198,25,3.57,9,56.25%,1.29,11,25.00%,1.57,5,4.46%,0.71
+Gasman Patrick,MB,147542,2022,USA,USA,26,208,0,-,0,-,-,0,-,-,0,-,-
+Isaacson Quinn,S,189158,2022,USA,USA,24,187,-,-,-,-,-,-,-,-,-,-,-
+Russell Kyle,O,136077,2022,USA,USA,29,206,22,3.14,20,51.28%,2.86,0,0.00%,0,2,5.88%,0.29
+Tuaniga Joshua,S,147543,2022,USA,USA,26,191,17,1.13,11,50.00%,0.73,3,6.25%,0.2,3,2.59%,0.2
+Jaeschke Thomas,OH,143682,2022,USA,USA,29,198,33,4.12,25,37.31%,3.12,5,33.33%,0.62,3,6.67%,0.38
+Muagututia Garrett,OH,133463,2022,USA,USA,35,205,27,2.45,27,56.25%,2.45,0,0.00%,0,0,0.00%,0
+Smith David,MB,116069,2022,USA,USA,37,201,108,7.2,67,63.21%,4.47,32,22.54%,2.13,9,5.23%,0.6
+Briggs Mason,L,168461,2022,USA,USA,22,182,0,-,0,-,-,0,-,-,0,-,-
+Shoji Erik,L,119732,2022,USA,USA,33,184,0,0,0,-,-,0,-,-,0,-,-
+Kessel Cody,OH,153472,2022,USA,USA,31,196,8,0.73,8,40.00%,0.73,0,0.00%,0,0,0.00%,0
+Wildman Brett,OH,164133,2022,USA,USA,23,195,-,-,-,-,-,-,-,-,-,-,-
+Rottman William,OH,182750,2022,USA,USA,21,198,-,-,-,-,-,-,-,-,-,-,-
+McHenry Merrick,MB,169728,2022,USA,USA,22,200,-,-,-,-,-,-,-,-,-,-,-
+Mitchem Tyler,MB,162551,2022,USA,USA,24,208,16,1.07,12,66.67%,0.8,2,12.50%,0.13,2,8.70%,0.13
+Olivier Spencer,OH,156751,2022,USA,USA,24,198,-,-,-,-,-,-,-,-,-,-,-
+John Speraw,COACH,N/A,2022,USA,,,,,,,,,,,,,,
+Sanchez Matias,S,142412,2023,Argentina,Argentina,27,175,1,0.08,0,0.00%,0,0,0.00%,0,1,1.61%,0.08
+Martinez Franchi Jan,U,142410,2023,Argentina,Argentina,26,190,28,2.15,25,38.46%,1.92,2,12.50%,0.15,1,2.86%,0.08
+Gallego Joaquin,MB,142411,2023,Argentina,Argentina,27,204,20,1.54,14,46.67%,1.08,6,19.35%,0.46,0,0.00%,0
+Palonsky Luciano,OH,162546,2023,Argentina,Argentina,24,198,183,14.08,151,49.35%,11.62,13,18.84%,1,19,9.31%,1.46
+Loser Agustin,MB,152692,2023,Argentina,Argentina,26,198,168,12.92,103,63.98%,7.92,53,32.52%,4.08,12,5.56%,0.92
+Danani Santiago,L,153053,2023,Argentina,Argentina,28,176,0,0,0,-,-,0,-,-,0,-,-
+Zelayeta Mauro,OH,160816,2023,Argentina,Argentina,24,190,1,0.08,1,100%,0.08,0,-,-,0,0.00%,0
+Armoa Manuel,OH,174853,2023,Argentina,Argentina,21,195,14,1.08,10,45.45%,0.77,1,25.00%,0.08,3,15.79%,0.23
+Lima Bruno,O,142415,2023,Argentina,Argentina,28,198,133,10.23,119,52.65%,9.15,7,11.48%,0.54,7,5.22%,0.54
+De Cecco Luciano,S,117457,2023,Argentina,Argentina,35,191,16,1.78,7,50.00%,0.78,5,12.20%,0.56,4,3.03%,0.44
+Koukartsev Pablo Sergio,O,141282,2023,Argentina,Argentina,31,203,90,6.92,81,43.09%,6.23,6,20.69%,0.46,3,3.57%,0.23
+Vicentin Luciano,OH,163555,2023,Argentina,Argentina,23,197,133,10.23,112,38.62%,8.62,15,19.48%,1.15,6,4.00%,0.46
+Ramos Martin,MB,125047,2023,Argentina,Argentina,32,197,26,2,18,60.00%,1.38,8,25.00%,0.62,0,0.00%,0
+Zerba Nicolas,MB,162543,2023,Argentina,Argentina,24,203,52,4,40,53.33%,3.08,9,10.47%,0.69,3,3.03%,0.23
+Marcelo Rodolfo Mendez,COACH,N/A,2023,Argentina,,,,,,,,,,,,,,
+Rezende Bruno Mossa,S,116099,2023,Brazil,Brazil,37,190,15,1.15,5,45.45%,0.38,6,9.52%,0.46,4,2.48%,0.31
+Rodrigues Pinto Otávio Henrique,MB,125010,2023,Brazil,Brazil,33,200,68,5.23,47,67.14%,3.62,13,16.25%,1,8,6.40%,0.62
+Fernandes P.X.Cavalcante Adriano,OH,174908,2023,Brazil,Brazil,22,201,34,2.62,30,41.10%,2.31,3,12.50%,0.23,1,2.08%,0.08
+Honorato Henrique Dantas Nóbrega,OH,161930,2023,Brazil,Brazil,27,190,97,7.46,77,42.08%,5.92,15,23.44%,1.15,5,3.52%,0.38
+Leal Hidalgo Yoandy,OH,118928,2023,Brazil,Brazil,35,202,2,2,2,50.00%,2,0,0.00%,0,0,0.00%,0
+Gil Kreling Fernando,S,142744,2023,Brazil,Brazil,28,186,1,0.08,1,33.33%,0.08,0,0.00%,0,0,0.00%,0
+Nascimento Maique Reis,L,161939,2023,Brazil,Brazil,26,187,0,0,0,-,-,0,-,-,0,-,-
+Saatkamp Lucas,MB,116081,2023,Brazil,Brazil,38,209,46,5.11,32,49.23%,3.56,9,14.06%,1,5,6.67%,0.56
+Hoss Thales,L,118916,2023,Brazil,Brazil,34,190,0,0,0,-,-,0,-,-,0,-,-
+Souza Ricardo Lucarelli,OH,136468,2023,Brazil,Brazil,32,196,185,14.23,154,49.36%,11.85,12,16.44%,0.92,19,9.18%,1.46
+Moreira Roque Felipe,O,161921,2023,Brazil,Brazil,26,212,39,4.33,32,59.26%,3.56,6,35.29%,0.67,1,4.00%,0.11
+Souza Alan,O,136947,2023,Brazil,Brazil,30,202,177,13.62,162,52.60%,12.46,8,8.99%,0.62,7,5.43%,0.54
+Resende Gualberto Flavio,MB,136956,2023,Brazil,Brazil,30,199,80,6.15,56,61.54%,4.31,22,20.00%,1.69,2,1.79%,0.15
+Nunes da Cunha Jr Judson Amabel,MB,187493,2023,Brazil,Brazil,25,204,51,3.92,45,72.58%,3.46,6,12.00%,0.46,0,0.00%,0
+Renan Dal Zotto,COACH,N/A,2023,Brazil,,,,,,,,,,,,,,
+Kolev Nikolay,MB,173067,2023,Bulgaria,Bulgaria,26,204,54,4.5,41,63.08%,3.42,9,12.68%,0.75,4,4.71%,0.33
+Atanasov Martin,OH,156676,2023,Bulgaria,Bulgaria,27,197,121,10.08,100,49.50%,8.33,13,24.53%,1.08,8,6.06%,0.67
+Gotsev Svetoslav,MB,132035,2023,Bulgaria,Bulgaria,33,205,24,2,15,48.39%,1.25,9,28.12%,0.75,0,0.00%,0
+Asparuhov Asparuh,OH,168269,2023,Bulgaria,Bulgaria,23,201,79,6.58,71,44.10%,5.92,6,17.65%,0.5,2,2.86%,0.17
+Seganov Georgi,S,137012,2023,Bulgaria,Bulgaria,30,197,8,0.67,2,13.33%,0.17,5,12.50%,0.42,1,0.81%,0.08
+Karyagin Denis,OH,174445,2023,Bulgaria,Bulgaria,21,206,42,3.5,36,43.90%,3,5,21.74%,0.42,1,2.38%,0.08
+Grozdanov Aleks,MB,152619,2023,Bulgaria,Bulgaria,25,208,79,6.58,53,54.64%,4.42,23,23.96%,1.92,3,2.01%,0.25
+Dimitrov Dimitar,O,180587,2023,Bulgaria,Bulgaria,23,208,82,6.83,69,37.10%,5.75,8,25.81%,0.67,5,5.10%,0.42
+Salparov Teodor,L,113691,2023,Bulgaria,Bulgaria,41,187,0,0,0,-,-,0,-,-,0,-,-
+Bozhilov Martin,L,135372,2023,Bulgaria,Bulgaria,35,190,0,0,0,-,-,0,-,-,0,-,-
+Raev Delcho,S,124986,2023,Bulgaria,Bulgaria,33,185,0,0,0,-,-,0,0.00%,0,0,0.00%,0
+Penchev Nikolay,OH,132033,2023,Bulgaria,Bulgaria,31,197,15,1.88,13,36.11%,1.62,2,14.29%,0.25,0,0.00%,0
+Bratoev Valentin,OH,118486,2023,Bulgaria,Bulgaria,36,203,7,1.75,5,29.41%,1.25,1,14.29%,0.25,1,4.55%,0.25
+Petkov Iliya,MB,168268,2023,Bulgaria,Bulgaria,27,200,17,1.42,12,54.55%,1,2,10.53%,0.17,3,5.77%,0.25
+Plamen Konstantinov,COACH,N/A,2023,Bulgaria,,,,,,,,,,,,,,
+Eshenko Pearson,MB,157324,2023,Canada,Canada,26,204,39,3.25,31,62.00%,2.58,6,9.23%,0.5,2,2.33%,0.17
+Herr Luke,S,165212,2023,Canada,Canada,29,192,13,1.08,2,50.00%,0.17,8,18.18%,0.67,3,2.63%,0.25
+Hoag Nicholas,OH,136291,2023,Canada,Canada,31,200,98,8.17,84,42.21%,7,4,9.09%,0.33,10,5.92%,0.83
+Hofer Brodie,OH,168914,2023,Canada,Canada,23,200,19,1.58,18,36.00%,1.5,0,0.00%,0,1,2.78%,0.08
+Demyanenko Danny,MB,140042,2023,Canada,Canada,29,196,80,6.67,57,61.96%,4.75,16,16.16%,1.33,7,5.11%,0.58
+Maar Stephen Timothy,OH,140061,2023,Canada,Canada,29,201,140,11.67,117,41.49%,9.75,15,20.55%,1.25,8,6.84%,0.67
+Walsh Brett James,S,143745,2023,Canada,Canada,30,196,3,0.38,0,-,-,1,7.69%,0.12,2,8.70%,0.25
+Sclater Ryan Joseph,O,140428,2023,Canada,Canada,30,200,132,11,114,47.11%,9.5,11,24.44%,0.92,7,7.22%,0.58
+Van Berkel Lucas,MB,136296,2023,Canada,Canada,32,210,39,3.25,30,53.57%,2.5,9,10.47%,0.75,0,0.00%,0
+Cooper Samuel,OH,182679,2023,Canada,Canada,22,200,27,3.38,21,42.86%,2.62,2,50.00%,0.25,4,25.00%,0.5
+Szwarc Arthur,O,151871,2023,Canada,Canada,28,209,96,8,80,50.31%,6.67,7,24.14%,0.58,9,11.25%,0.75
+Lui Justin,L,168925,2023,Canada,Canada,23,178,0,0,0,-,-,0,-,-,0,-,-
+Currie Landon,L,168923,2023,Canada,Canada,24,174,0,0,0,-,-,0,-,-,0,-,-
+Elser Mathias,OH,168908,2023,Canada,Canada,22,198,19,1.58,17,37.78%,1.42,2,16.67%,0.17,0,0.00%,0
+Tuomas Sammelvuo,COACH,N/A,2023,Canada,,,,,,,,,,,,,,
+Wang Dongchen,MB,173184,2023,China,China,23,200,32,2.67,21,45.65%,1.75,8,22.22%,0.67,3,4.35%,0.25
+Jiang Chuan,O,142855,2023,China,China,29,205,104,8.67,94,44.55%,7.83,6,13.95%,0.5,4,4.21%,0.33
+Wang Hebin,S,174297,2023,China,China,24,188,16,1.33,5,35.71%,0.42,8,17.02%,0.67,3,2.38%,0.25
+Yang Yiming,L,174295,2023,China,China,24,186,0,0,0,-,-,0,-,-,0,-,-
+Yu Yuantai,OH,152518,2023,China,China,26,186,92,7.67,83,50.92%,6.92,4,15.38%,0.33,5,4.67%,0.42
+Guo Cheng,S,164632,2023,China,China,28,200,2,0.17,0,0.00%,0,2,28.57%,0.17,0,0.00%,0
+Li Yongzhen,MB,181103,2023,China,China,25,198,71,5.92,49,60.49%,4.08,18,19.35%,1.5,4,4.08%,0.33
+Zhai Dejun,OH,174159,2023,China,China,24,195,58,4.83,50,35.97%,4.17,3,11.11%,0.25,5,6.85%,0.42
+Peng Shikun,MB,168175,2023,China,China,23,208,65,5.42,46,53.49%,3.83,15,18.99%,1.25,4,2.61%,0.33
+Qu Zongshuai,L,174158,2023,China,China,25,186,0,0,0,-,-,0,-,-,0,-,-
+Chen Leiyang,S,152511,2023,China,China,25,198,1,0.12,0,-,-,0,0.00%,0,1,3.57%,0.12
+Rao Shuhan,MB,142598,2023,China,China,27,205,0,-,0,-,-,0,-,-,0,-,-
+Zhang Jingyin,OH,168271,2023,China,China,24,207,201,16.75,162,48.50%,13.5,22,31.88%,1.83,17,11.41%,1.42
+Wang Bin,OH,169310,2023,China,China,22,195,29,2.42,25,53.19%,2.08,0,0.00%,0,4,10.53%,0.33
+Sheng Wu,COACH,N/A,2023,China,,,,,,,,,,,,,,
+Masso Alvarez Jose Israel,MB,147273,2023,Cuba,Cuba,26,2,59,4.92,47,58.02%,3.92,9,9.89%,0.75,3,3.37%,0.25
+Mergarejo Hernandez Osniel Lazaro,OH,151814,2023,Cuba,Cuba,26,195,38,3.17,34,36.17%,2.83,2,10.53%,0.17,2,2.53%,0.17
+Concepcion Rojas Javier Octavio,MB,147263,2023,Cuba,Cuba,26,200,99,8.25,67,61.47%,5.58,29,20.86%,2.42,3,2.13%,0.25
+Thondike Mejias Christian Manuel,S,168412,2023,Cuba,Cuba,22,195,5,0.42,1,9.09%,0.08,3,14.29%,0.25,1,2.50%,0.08
+Garcia Alvarez Yonder Roman,L,132361,2023,Cuba,Cuba,31,183,0,0,0,-,-,0,-,-,0,-,-
+Gutierrez Suarez Miguel David,O,147268,2023,Cuba,Cuba,27,197,11,0.92,9,52.94%,0.75,2,25.00%,0.17,0,0.00%,0
+Taboada Diaz Lyvan,S,157477,2023,Cuba,Cuba,25,191,20,1.67,6,46.15%,0.5,14,22.95%,1.17,0,0.00%,0
+Herrera Jaime Jesus,O,169940,2023,Cuba,Cuba,28,194,212,17.67,180,51.43%,15,11,17.74%,0.92,21,10.71%,1.75
+Goide Arredondo Adrian Eduardo,S,147272,2023,Cuba,Cuba,25,191,0,0,0,-,-,0,0.00%,0,0,-,-
+Lopez Castro Miguel Angel,OH,151817,2023,Cuba,Cuba,27,189,171,14.25,148,50.34%,12.33,7,10.77%,0.58,16,9.20%,1.33
+Pedroso Garriga Endriel Alberto,MB,182877,2023,Cuba,Cuba,21,212,21,1.75,10,43.48%,0.83,11,28.21%,0.92,0,0.00%,0
+Gutierrez Suarez Jose Miguel,OH,168417,2023,Cuba,Cuba,22,192,2,0.17,0,0.00%,0,1,100%,0.08,1,2.13%,0.08
+Yant Herrera Marlon,OH,157318,2023,Cuba,Cuba,22,202,100,8.33,85,47.22%,7.08,11,22.45%,0.92,4,3.67%,0.33
+Gorguet Salas Alain,OH,190322,2023,Cuba,Cuba,30,189,0,0,0,-,-,0,-,-,0,-,-
+Nicolas Ernesto Vives Coffigny,COACH,N/A,2023,Cuba,,,,,,,,,,,,,,
+Chinenyeze Barthélémy,MB,152494,2023,France,France,26,204,89,9.89,70,60.87%,7.78,15,20.27%,1.67,4,3.77%,0.44
+Grebennikov Jenia,L,119792,2023,France,France,33,188,0,0,0,-,-,0,-,-,0,-,-
+Patry Jean,O,142694,2023,France,France,27,207,84,9.33,68,45.33%,7.56,10,35.71%,1.11,6,8.33%,0.67
+Toniutti Benjamin,S,119804,2023,France,France,34,183,4,0.8,3,75.00%,0.6,1,11.11%,0.2,0,0.00%,0
+Tillie Kevin,OH,124518,2023,France,France,33,200,92,10.22,86,45.74%,9.56,4,8.16%,0.44,2,1.53%,0.22
+Brizard Antoine,S,136851,2023,France,France,29,196,21,2.33,8,42.11%,0.89,6,15.00%,0.67,7,6.48%,0.78
+Boyer Stephen,O,142710,2023,France,France,27,196,62,6.89,57,45.97%,6.33,3,13.64%,0.33,2,3.77%,0.22
+Le Goff Nicolas,MB,125073,2023,France,France,32,206,29,5.8,20,62.50%,4,8,30.77%,1.6,1,3.57%,0.2
+Bultor Daryl,MB,142677,2023,France,France,28,197,73,5.62,59,67.05%,4.54,10,16.39%,0.77,4,4.60%,0.31
+Clevenot Trevor,OH,132948,2023,France,France,29,199,96,10.67,86,45.03%,9.56,7,14.29%,0.78,3,2.65%,0.33
+Louati Yacine,OH,120735,2023,France,France,32,198,42,4.67,33,37.50%,3.67,5,20.83%,0.56,4,5.56%,0.44
+Diez Benjamin,L,152506,2023,France,France,25,183,0,0,0,-,-,0,-,-,0,-,-
+Carle Timothée,OH,142686,2023,France,France,28,195,79,6.08,68,48.23%,5.23,4,16.67%,0.31,7,8.86%,0.54
+Jouffroy Quentin,MB,136856,2023,France,France,30,202,32,2.46,20,51.28%,1.54,5,15.62%,0.38,7,6.25%,0.54
+Andrea Giani,COACH,N/A,2023,France,,,,,,,,,,,,,,
+Fromm Christian,OH,119779,2023,Germany,Germany,33,204,29,7.25,28,48.28%,7,0,0.00%,0,1,2.78%,0.25
+Tille Johannes,S,152469,2023,Germany,Germany,26,186,17,1.42,1,25.00%,0.08,7,19.44%,0.58,9,6.34%,0.75
+Kaliberda Denys,OH,119775,2023,Germany,Germany,33,193,13,1.08,10,32.26%,0.83,1,16.67%,0.08,2,7.69%,0.17
+Reichert Moritz,OH,139386,2023,Germany,Germany,29,194,121,10.08,104,43.70%,8.67,8,17.78%,0.67,9,5.56%,0.75
+Graven Leonard,L,182291,2023,Germany,Germany,19,180,0,0,0,-,-,0,0.00%,0,0,-,-
+Kampa Lukas,S,116575,2023,Germany,Germany,37,196,5,0.62,2,100%,0.25,1,6.67%,0.12,2,3.39%,0.25
+Brehme Anton,MB,162081,2023,Germany,Germany,24,206,117,9.75,93,61.18%,7.75,13,12.62%,1.08,11,7.80%,0.92
+Schott Ruben,OH,136441,2023,Germany,Germany,29,193,29,2.42,21,32.81%,1.75,4,26.67%,0.33,4,7.84%,0.33
+Krage Florian,MB,162790,2023,Germany,Germany,27,203,33,2.75,23,56.10%,1.92,8,16.00%,0.67,2,4.08%,0.17
+Weber Linus,O,162082,2023,Germany,Germany,24,203,143,11.92,125,51.23%,10.42,9,15.00%,0.75,9,9.89%,0.75
+Krick Tobias,MB,152349,2023,Germany,Germany,25,210,53,4.42,40,60.61%,3.33,13,20.31%,1.08,0,0.00%,0
+Brand Tobias,OH,163592,2023,Germany,Germany,25,193,33,2.75,30,46.15%,2.5,3,27.27%,0.25,0,0.00%,0
+Maase Lukas,MB,152352,2023,Germany,Germany,25,208,9,1.12,6,50.00%,0.75,3,25.00%,0.38,0,0.00%,0
+Böhme Yan,O,184322,2023,Germany,Germany,26,203,47,3.92,41,46.59%,3.42,6,26.09%,0.5,0,0.00%,0
+Michał Winiarski,COACH,N/A,2023,Germany,,,,,,,,,,,,,,
+Jelveh Ghaziani Mahdi,MB,163173,2023,Iran,Iran,22,208,13,1.08,12,50.00%,1,1,4.76%,0.08,0,0.00%,0
+Mousavi Eraghi Seyed Mohammad,MB,118827,2023,Iran,Iran,36,203,91,7.58,53,51.96%,4.42,35,27.34%,2.92,3,2.33%,0.25
+Hazratpourtalatappeh Mohammadreza,L,163176,2023,Iran,Iran,24,187,0,0,0,-,-,0,-,-,0,-,-
+Moazzen Mohammadreza,L,153535,2023,Iran,Iran,32,175,0,0,0,-,-,0,-,-,0,-,-
+Esfandiar Amirhossein,OH,152752,2023,Iran,Iran,25,209,65,5.42,48,36.64%,4,9,30.00%,0.75,8,8.25%,0.67
+Ramezani Ali,S,152753,2023,Iran,Iran,25,200,1,0.25,1,50.00%,0.25,0,0.00%,0,0,0.00%,0
+Hossein Khanzadeh Firouzjah Poriya,OH,182470,2023,Iran,Iran,19,198,63,6.3,55,49.11%,5.5,4,22.22%,0.4,4,4.82%,0.4
+Homayonfarmanesh Shahrooz,OH,123413,2023,Iran,Iran,34,192,18,1.5,16,57.14%,1.33,1,25.00%,0.08,1,2.27%,0.08
+Afshin Far Armin,OH,189602,2023,Iran,Iran,25,207,1,0.25,1,20.00%,0.25,0,0.00%,0,0,-,-
+Saadat Bardia,O,168551,2023,Iran,Iran,21,205,36,9,33,45.83%,8.25,3,13.64%,0.75,0,0.00%,0
+Karimisouchelmaei Javad,S,152755,2023,Iran,Iran,26,204,20,1.67,13,59.09%,1.08,5,23.81%,0.42,2,3.12%,0.17
+Valizadeh Mohammad,MB,174373,2023,Iran,Iran,22,204,72,6,46,56.10%,3.83,21,22.11%,1.75,5,3.18%,0.42
+Sharifi Morteza,OH,152742,2023,Iran,Iran,24,193,92,8.36,84,46.41%,7.64,4,10.26%,0.36,4,3.67%,0.36
+Daneshdoust Ehsan,OH,163174,2023,Iran,Iran,24,192,0,-,0,-,-,0,-,-,0,-,-
+Behrouz Ataei Nouri,COACH,N/A,2023,Iran,,,,,,,,,,,,,,
+Michieletto Alessandro,OH,171191,2023,Italy,Italy,22,205,145,13.18,115,50.00%,10.45,17,30.91%,1.55,13,8.55%,1.18
+Giannelli Simone,S,144005,2023,Italy,Italy,27,200,49,4.45,27,56.25%,2.45,14,17.50%,1.27,8,4.73%,0.73
+Balaso Fabio,L,150436,2023,Italy,Italy,28,178,0,0,0,-,-,0,-,-,0,-,-
+Sbertoli Riccardo,S,152370,2023,Italy,Italy,25,188,1,0.09,0,-,-,1,50.00%,0.09,0,0.00%,0
+Scanferla Leonardo,L,181128,2023,Italy,Italy,25,184,0,0,0,-,-,0,-,-,0,-,-
+Bottolo Mattia,OH,163447,2023,Italy,Italy,24,196,41,3.73,37,50.00%,3.36,2,15.38%,0.18,2,5.13%,0.18
+Galassi Gianluca,MB,152408,2023,Italy,Italy,26,201,76,6.91,46,58.97%,4.18,22,20.37%,2,8,8.33%,0.73
+Lavia Daniele,OH,153200,2023,Italy,Italy,24,200,134,12.18,108,40.00%,9.82,20,24.10%,1.82,6,4.03%,0.55
+Romanò Yuri,O,162520,2023,Italy,Italy,26,201,223,14.87,185,44.47%,12.33,16,13.56%,1.07,22,11.46%,1.47
+Gironi Fabrizio,OH,163032,2023,Italy,Italy,24,200,3,0.27,3,23.08%,0.27,0,0.00%,0,0,0.00%,0
+Russo Roberto,MB,152405,2023,Italy,Italy,27,207,96,8.73,59,58.42%,5.36,24,21.05%,2.18,13,8.07%,1.18
+Rinaldi Tommaso,OH,172962,2023,Italy,Italy,22,200,53,3.53,47,43.12%,3.13,3,13.64%,0.2,3,4.76%,0.2
+Sanguinetti Giovanni,MB,174076,2023,Italy,Italy,23,203,21,1.91,12,63.16%,1.09,4,21.05%,0.36,5,14.71%,0.45
+Mosca Leandro Ausibio,MB,174074,2023,Italy,Italy,23,208,24,2.18,17,65.38%,1.55,7,29.17%,0.64,0,0.00%,0
+Ferdinando De Giorgi,COACH,N/A,2023,Italy,,,,,,,,,,,,,,
+Onodera Taishi,MB,142565,2023,Japan,Japan,28,200,100,6.67,78,59.54%,5.2,18,16.07%,1.2,4,2.14%,0.27
+Miyaura Kento,O,163038,2023,Japan,Japan,25,190,136,9.07,116,55.77%,7.73,5,12.50%,0.33,15,12.50%,1
+Otsuka Tatsunori,OH,163516,2023,Japan,Japan,23,194,31,2.21,31,46.27%,2.21,0,0.00%,0,0,0.00%,0
+Yamauchi Akihiro,MB,146409,2023,Japan,Japan,30,204,74,4.93,58,53.21%,3.87,12,15.38%,0.8,4,2.67%,0.27
+Sekita Masahiro,S,133009,2023,Japan,Japan,30,175,8,0.53,2,33.33%,0.13,1,1.72%,0.07,5,2.16%,0.33
+Takahashi Kentaro,MB,142561,2023,Japan,Japan,29,202,25,1.67,19,63.33%,1.27,6,13.04%,0.4,0,0.00%,0
+Tomita Shoma,OH,178761,2023,Japan,Japan,26,190,9,0.6,9,60.00%,0.6,0,-,-,0,0.00%,0
+Takahashi Ran,OH,178762,2023,Japan,Japan,22,188,198,13.2,173,55.27%,11.53,10,13.89%,0.67,15,7.43%,1
+Ogawa Tomohiro,L,180990,2023,Japan,Japan,27,176,0,0,0,-,-,0,-,-,0,-,-
+Ishikawa Yuki,OH,142568,2023,Japan,Japan,28,191,275,18.33,237,52.90%,15.8,17,15.74%,1.13,21,9.09%,1.4
+Nishiyama Hiroto,O,192453,2023,Japan,Japan,21,193,4,1.33,3,42.86%,1,0,0.00%,0,1,20.00%,0.33
+Yamamoto Tomohiro,L,172893,2023,Japan,Japan,29,171,0,0,0,-,-,0,-,-,0,-,-
+Eiro Motoki,S,142562,2023,Japan,Japan,27,192,1,0.14,0,-,-,1,12.50%,0.14,0,0.00%,0
+Evbade-Dan Larry Ik,MB,189039,2023,Japan,Japan,23,195,2,0.4,2,40.00%,0.4,0,0.00%,0,0,0.00%,0
+Philippe Blain,COACH,N/A,2023,Japan,,,,,,,,,,,,,,
+Korenblek Siebe,MB,188782,2023,Netherlands,Netherlands,22,215,4,0.33,2,100%,0.17,2,50.00%,0.17,0,0.00%,0
+Keemink Wessel,S,141546,2023,Netherlands,Netherlands,30,197,23,1.92,12,80.00%,1,8,14.29%,0.67,3,2.27%,0.25
+Van Garderen Maarten,OH,139929,2023,Netherlands,Netherlands,34,200,128,10.67,103,44.78%,8.58,15,34.88%,1.25,10,7.63%,0.83
+Ter Horst Thijs,OH,137345,2023,Netherlands,Netherlands,32,204,13,1.62,11,37.93%,1.38,1,12.50%,0.12,1,10.00%,0.12
+van Der Ent Cornelis Luuc,MB,169921,2023,Netherlands,Netherlands,25,208,0,-,0,-,-,0,-,-,0,-,-
+Meijs Silvester,S,188784,2023,Netherlands,Netherlands,22,202,4,0.33,0,0.00%,0,3,30.00%,0.25,1,5.88%,0.08
+Jorna Gijs,OH,131980,2023,Netherlands,Netherlands,34,196,42,3.5,34,31.78%,2.83,7,15.22%,0.58,1,0.95%,0.08
+Plak Fabian,MB,156678,2023,Netherlands,Netherlands,26,198,89,7.42,57,52.29%,4.75,25,21.37%,2.08,7,5.11%,0.58
+Tuinstra Bennie Junior,OH,170436,2023,Netherlands,Netherlands,23,200,83,6.92,69,42.86%,5.75,3,15.79%,0.25,11,11.11%,0.92
+Abdel-Aziz Nimir,O,137498,2023,Netherlands,Netherlands,32,201,217,18.08,184,51.83%,15.33,8,17.78%,0.67,25,13.97%,2.08
+Ter Maat Wouter,O,154521,2023,Netherlands,Netherlands,32,200,52,6.5,46,54.76%,5.75,4,28.57%,0.5,2,5.41%,0.25
+Andringa Robbert,L,121992,2023,Netherlands,Netherlands,33,192,0,0,0,-,-,0,-,-,0,-,-
+Wiltenburg Twan,MB,150703,2023,Netherlands,Netherlands,27,205,57,4.75,34,57.63%,2.83,20,23.53%,1.67,3,2.05%,0.25
+Lipke Niels,L,188785,2023,Netherlands,Netherlands,21,180,0,-,0,-,-,0,-,-,0,-,-
+Roberto Piazza,COACH,N/A,2023,Netherlands,,,,,,,,,,,,,,
+Popiwczak Jakub,L,153388,2023,Poland,Poland,27,180,0,0,0,-,-,0,-,-,0,-,-
+Kaczmarek Lukasz,O,162105,2023,Poland,Poland,29,204,86,12.29,74,56.06%,10.57,10,20.83%,1.43,2,2.67%,0.29
+Kurek Bartosz,O,115806,2023,Poland,Poland,35,205,82,7.45,76,47.50%,6.91,4,11.11%,0.36,2,2.70%,0.18
+Leon Venero Wilfredo,OH,119646,2023,Poland,Poland,30,202,137,12.45,109,50.00%,9.91,14,28.00%,1.27,14,12.73%,1.27
+Bednorz Bartosz,OH,150742,2023,Poland,Poland,29,201,48,4.36,40,47.06%,3.64,5,21.74%,0.45,3,4.76%,0.27
+Sliwka Aleksander,OH,142679,2023,Poland,Poland,28,196,84,12,74,57.36%,10.57,6,17.14%,0.86,4,4.21%,0.57
+Lomacz Grzegorz,S,115794,2023,Poland,Poland,36,187,6,0.4,2,100%,0.13,3,13.64%,0.2,1,1.45%,0.07
+Kochanowski Jakub,MB,152870,2023,Poland,Poland,26,199,78,7.09,45,70.31%,4.09,20,19.80%,1.82,13,10.74%,1.18
+Semeniuk Kamil,OH,153395,2023,Poland,Poland,27,195,59,5.36,46,43.81%,4.18,8,30.77%,0.73,5,6.25%,0.45
+Zatorski Pawel,L,118614,2023,Poland,Poland,33,184,0,0,0,-,-,0,-,-,0,-,-
+Janusz Marcin,S,165942,2023,Poland,Poland,29,196,3,0.43,0,0.00%,0,1,4.17%,0.14,2,2.82%,0.29
+Bieniek Mateusz,MB,150734,2023,Poland,Poland,29,210,77,7,56,57.73%,5.09,9,11.54%,0.82,12,9.38%,1.09
+Fornal Tomasz,OH,152866,2023,Poland,Poland,26,198,32,4.57,30,44.12%,4.29,2,11.11%,0.29,0,0.00%,0
+Huber Norbert,MB,152869,2023,Poland,Poland,25,204,65,5.91,39,60.00%,3.55,17,24.64%,1.55,9,7.50%,0.82
+Nikola Grbić,COACH,N/A,2023,Poland,,,,,,,,,,,,,,
+Kovacevic Uros,OH,124926,2023,Serbia,Serbia,30,197,1,0.25,1,9.09%,0.25,0,0.00%,0,0,0.00%,0
+Kapur Milorad,L,136360,2023,Serbia,Serbia,33,181,0,0,0,-,-,0,-,-,0,-,-
+Mašulović Veljko,OH,192041,2023,Serbia,Serbia,21,198,1,0.12,0,0.00%,0,1,100%,0.12,0,0.00%,0
+Krsmanovic Petar,MB,146579,2023,Serbia,Serbia,33,205,100,8.33,64,61.54%,5.33,29,29.59%,2.42,7,4.07%,0.58
+Ivovic Marko,OH,132022,2023,Serbia,Serbia,33,194,68,8.5,58,38.67%,7.25,5,15.15%,0.62,5,4.81%,0.62
+Kujundžić Miran,OH,162122,2023,Serbia,Serbia,26,196,151,12.58,124,48.63%,10.33,11,20.37%,0.92,16,9.58%,1.33
+Batak Aleksa,S,173249,2023,Serbia,Serbia,24,198,1,0.08,0,0.00%,0,1,6.25%,0.08,0,0.00%,0
+Peric Pavle,OH,173251,2023,Serbia,Serbia,25,207,74,6.17,62,42.18%,5.17,8,34.78%,0.67,4,5.71%,0.33
+Masulovic Nemanja,MB,150382,2023,Serbia,Serbia,28,205,4,0.5,3,50.00%,0.38,0,0.00%,0,1,10.00%,0.12
+Luburic Drazen,O,143794,2023,Serbia,Serbia,30,202,192,16,172,48.86%,14.33,7,12.50%,0.58,13,7.47%,1.08
+Podrascanin Marko,MB,116525,2023,Serbia,Serbia,36,204,0,-,0,-,-,0,-,-,0,-,-
+Todorovic Vuk,S,173250,2023,Serbia,Serbia,25,190,17,1.42,6,50.00%,0.5,8,15.38%,0.67,3,2.34%,0.25
+Vucicevic Bozidar,O,168276,2023,Serbia,Serbia,25,205,21,1.75,18,40.91%,1.5,3,27.27%,0.25,0,0.00%,0
+Nedeljkovic Aleksandar,MB,164985,2023,Serbia,Serbia,26,205,94,7.83,61,64.89%,5.08,29,22.66%,2.42,4,2.76%,0.33
+Igor Kolaković,COACH,N/A,2023,Serbia,,,,,,,,,,,,,,
+Pajenk Alen,MB,114962,2023,Slovenia,Slovenia,37,203,87,6.69,66,56.90%,5.08,18,15.79%,1.38,3,1.82%,0.23
+Planinšič Uroš,S,168715,2023,Slovenia,Slovenia,25,186,4,0.31,0,0.00%,0,4,22.22%,0.31,0,0.00%,0
+Kozamernik Jan,MB,151391,2023,Slovenia,Slovenia,28,204,89,6.85,55,56.70%,4.23,24,17.91%,1.85,10,4.61%,0.77
+Kök Matej,OH,151405,2023,Slovenia,Slovenia,27,196,6,0.46,6,31.58%,0.46,0,0.00%,0,0,0.00%,0
+Toman Urban,L,161756,2023,Slovenia,Slovenia,26,185,0,0,0,-,-,0,-,-,0,-,-
+Štalekar Sašo,MB,151404,2023,Slovenia,Slovenia,27,214,5,0.38,5,50.00%,0.38,0,0.00%,0,0,0.00%,0
+Koncilja Danijel,MB,144483,2023,Slovenia,Slovenia,33,201,0,-,0,-,-,0,-,-,0,-,-
+Kovačič Jani,L,144415,2023,Slovenia,Slovenia,31,186,0,0,0,-,-,0,-,-,0,-,-
+Štern Žiga,OH,155920,2023,Slovenia,Slovenia,30,193,49,3.77,44,51.16%,3.38,4,14.29%,0.31,1,2.44%,0.08
+Ropret Gregor,S,119018,2023,Slovenia,Slovenia,35,192,13,1,6,33.33%,0.46,6,10.91%,0.46,1,0.81%,0.08
+Urnaut Tine,OH,114957,2023,Slovenia,Slovenia,35,200,186,14.31,164,46.99%,12.62,4,7.84%,0.31,18,9.38%,1.38
+Čebulj Klemen,OH,136918,2023,Slovenia,Slovenia,32,202,172,13.23,145,44.48%,11.15,18,25.35%,1.38,9,4.95%,0.69
+Možič Rok,OH,168747,2023,Slovenia,Slovenia,22,200,164,12.62,140,48.44%,10.77,14,20.90%,1.08,10,8.26%,0.77
+Mujanovič Nik,O,182325,2023,Slovenia,Slovenia,19,206,1,0.11,1,100%,0.11,0,-,-,0,-,-
+Gheorghe Cretu,COACH,N/A,2023,Slovenia,,,,,,,,,,,,,,
+Anderson Matthew,O,118893,2023,USA,USA,36,202,161,10.73,136,50.75%,9.07,8,10.81%,0.53,17,10.37%,1.13
+Russell Aaron,OH,132624,2023,USA,USA,30,205,107,7.64,84,45.41%,6,10,21.28%,0.71,13,12.50%,0.93
+Jendryk II Jeffrey,MB,147721,2023,USA,USA,28,208,36,2.4,30,55.56%,2,4,11.11%,0.27,2,3.23%,0.13
+Defalco Torey,OH,139254,2023,USA,USA,26,198,172,11.47,143,51.25%,9.53,13,15.48%,0.87,16,9.36%,1.07
+Hanes Jake,O,170104,2023,USA,USA,25,210,36,3.27,27,42.86%,2.45,3,23.08%,0.27,6,13.64%,0.55
+Dagostino Kyle,L,142445,2023,USA,USA,28,175,0,0,0,-,-,0,-,-,0,-,-
+Christenson Micah,S,124879,2023,USA,USA,30,198,25,1.67,6,28.57%,0.4,15,21.74%,1,4,2.42%,0.27
+Holt Maxwell,MB,118901,2023,USA,USA,37,205,74,4.93,53,63.86%,3.53,12,12.24%,0.8,9,6.67%,0.6
+Ma'a Micah,S,147421,2023,USA,USA,26,192,10,0.91,5,55.56%,0.45,4,25.00%,0.36,1,3.23%,0.09
+Jaeschke Thomas,OH,143682,2023,USA,USA,30,198,98,8.91,80,46.78%,7.27,11,37.93%,1,7,7.07%,0.64
+Muagututia Garrett,OH,133463,2023,USA,USA,36,205,32,2.91,28,48.28%,2.55,2,18.18%,0.18,2,4.88%,0.18
+Averill Taylor,MB,148120,2023,USA,USA,32,201,56,3.73,43,71.67%,2.87,7,15.22%,0.47,6,7.89%,0.4
+Smith David,MB,116069,2023,USA,USA,38,201,69,4.6,41,56.16%,2.73,22,23.91%,1.47,6,5.22%,0.4
+Shoji Erik,L,119732,2023,USA,USA,34,184,0,0,0,-,-,0,-,-,0,-,-
+John Speraw,COACH,N/A,2023,USA,,,,,,,,,,,,,,
