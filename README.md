@@ -35,8 +35,8 @@ After cleaning the data, models were created in SQL to combine the data from the
 Three main analysis models were created:
 
 1. **Total Points by Country and Year**: This model calculates the total points scored by each country for each year.
-2. **Average Points by Position and Year**: This model calculates the average points scored by players in each position for each year.
-3. **Top Players by Metric**: This model identifies the top players based on various performance metrics (attack points, block points, serve points and total points)
+2. **Average Points by Position and Year**: This model calculates the average points (attack points, block points, serve points and total points) scored by players in each position for each year.
+3. **Top Players by Metric**: This model identifies the top players based on various performance metrics (attack points, block points, serve points and total points) for each year.
 
 ### Data Visualization
 
